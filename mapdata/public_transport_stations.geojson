@@ -1,0 +1,344 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-06T09:45:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310826343",
+        "ele": "749",
+        "name": "Riethüsli",
+        "nat_name": "St. Gallen, Riethüsli",
+        "network": "Ostwind",
+        "operator": "AB",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "St. Gallen Riethüsli",
+        "uic_ref": "8506371",
+        "wheelchair": "no",
+        "wikidata": "Q33506827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3671931,
+          47.4115532
+        ]
+      },
+      "id": "node/310826343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074024683",
+        "aerialway": "station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4348637,
+          47.4155879
+        ]
+      },
+      "id": "node/1074024683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346888802",
+        "ele": "670",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "St. Gallen",
+        "network": "Ostwind",
+        "operator": "SBB / SOB / Thurbo",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SG",
+        "uic_name": "St. Gallen",
+        "uic_ref": "8506302",
+        "wheelchair": "limited",
+        "wheelchair:description": "Schalterhalle via Gleis 1 zugänglich",
+        "wikidata": "Q117694",
+        "wikipedia": "de:Bahnhof St. Gallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3696839,
+          47.4231739
+        ]
+      },
+      "id": "node/1346888802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346888845",
+        "ele": "669",
+        "loc_name": "Gaiserbahnhof",
+        "name": "St. Gallen AB",
+        "network": "Ostwind",
+        "operator": "AB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SGSG",
+        "uic_name": "St. Gallen AB",
+        "uic_ref": "8506370",
+        "wheelchair": "yes",
+        "wikidata": "Q33506817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3689214,
+          47.4222203
+        ]
+      },
+      "id": "node/1346888845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346975631",
+        "ele": "785",
+        "name": "Notkersegg",
+        "nat_name": "St. Gallen, Notkersegg",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "St. Gallen Notkersegg",
+        "uic_ref": "8506361",
+        "wheelchair": "yes",
+        "wikidata": "Q33506698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4038904,
+          47.4252335
+        ]
+      },
+      "id": "node/1346975631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346975650",
+        "ele": "855",
+        "name": "Schwarzer Bären",
+        "nat_name": "St. Gallen, Schwarzer Bären",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Schwarzer Bären",
+        "uic_ref": "8506362",
+        "wikidata": "Q33506717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4154395,
+          47.4224882
+        ]
+      },
+      "id": "node/1346975650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346975665",
+        "ele": "940",
+        "name": "Vögelinsegg",
+        "nat_name": "Speicher, Vögelinsegg",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Vögelinsegg",
+        "uic_ref": "8506364",
+        "wheelchair": "limited",
+        "wikidata": "Q33506753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4364312,
+          47.4160363
+        ]
+      },
+      "id": "node/1346975665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347073388",
+        "ele": "775",
+        "name": "Lustmühle",
+        "network": "Ostwind",
+        "operator": "AB",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Lustmühle",
+        "uic_ref": "8506372",
+        "wikidata": "Q33506837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3591903,
+          47.4002605
+        ]
+      },
+      "id": "node/1347073388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349112911",
+        "ele": "677",
+        "name": "St. Gallen Haggen",
+        "network": "Ostwind",
+        "operator": "SOB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SGHA",
+        "uic_name": "St. Gallen Haggen",
+        "uic_ref": "8506392",
+        "wikidata": "Q15964245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3381741,
+          47.4077074
+        ]
+      },
+      "id": "node/1349112911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349282462",
+        "ele": "651",
+        "name": "St. Gallen Bruggen",
+        "network": "Ostwind",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SGBR",
+        "uic_name": "St. Gallen Bruggen",
+        "uic_ref": "8506301",
+        "wikidata": "Q5847125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3296232,
+          47.4072467
+        ]
+      },
+      "id": "node/1349282462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338313410",
+        "name": "Schülerhaus",
+        "nat_name": "St. Gallen, Schülerhaus",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "St. Gallen Schülerhaus",
+        "uic_ref": "8506359",
+        "wikidata": "Q33506687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3873242,
+          47.4249456
+        ]
+      },
+      "id": "node/2338313410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494757819",
+        "ele": "645",
+        "name": "St. Gallen St. Fiden",
+        "network": "Ostwind",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SGF",
+        "train": "yes",
+        "uic_name": "St. Gallen St. Fiden",
+        "uic_ref": "8506303",
+        "wikidata": "Q801453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3934152,
+          47.4344847
+        ]
+      },
+      "id": "node/2494757819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169758976",
+        "name": "Birnbäumen",
+        "nat_name": "St. Gallen, Birnbäumen",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "St. Gallen Birnbäumen",
+        "uic_ref": "8518100",
+        "wikidata": "Q33512173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3930509,
+          47.4258716
+        ]
+      },
+      "id": "node/7169758976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169758977",
+        "name": "Schützengarten",
+        "nat_name": "Speicher, Schützengarten",
+        "network": "Ostwind",
+        "operator": "AB-tb",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Schützengarten",
+        "uic_ref": "8506365",
+        "wikidata": "Q33506771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4382553,
+          47.412727
+        ]
+      },
+      "id": "node/7169758977"
+    }
+  ]
+}

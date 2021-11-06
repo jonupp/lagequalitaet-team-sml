@@ -1,0 +1,2248 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-06T09:51:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277991724",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "1",
+        "addr:postcode": "9004",
+        "addr:street": "Rorschacherstrasse",
+        "leisure": "fitness_centre",
+        "name": "Kieser Training",
+        "operator": "Kieser Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3782846,
+          47.4264094
+        ]
+      },
+      "id": "node/277991724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/333551554",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.350486,
+          47.4192027
+        ]
+      },
+      "id": "node/333551554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/333552058",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3528991,
+          47.4179043
+        ]
+      },
+      "id": "node/333552058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356427277",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3445252,
+          47.4415752
+        ]
+      },
+      "id": "node/356427277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366668547",
+        "created_by": "Potlatch 0.10f",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3370564,
+          47.4442881
+        ]
+      },
+      "id": "node/366668547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/538071487",
+        "leisure": "sports_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744212,
+          47.4212904
+        ]
+      },
+      "id": "node/538071487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706735",
+        "leisure": "fitness_station",
+        "ref": "5",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4268626,
+          47.4050942
+        ]
+      },
+      "id": "node/861706735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706750",
+        "leisure": "fitness_station",
+        "ref": "14",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4235604,
+          47.4030834
+        ]
+      },
+      "id": "node/861706750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706762",
+        "leisure": "fitness_station",
+        "ref": "12",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4258473,
+          47.4039276
+        ]
+      },
+      "id": "node/861706762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706815",
+        "leisure": "fitness_station",
+        "ref": "7",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4229465,
+          47.4055804
+        ]
+      },
+      "id": "node/861706815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706864",
+        "leisure": "fitness_station",
+        "ref": "4",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4280946,
+          47.4053043
+        ]
+      },
+      "id": "node/861706864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706882",
+        "leisure": "fitness_station",
+        "ref": "1",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4257918,
+          47.4026403
+        ]
+      },
+      "id": "node/861706882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706886",
+        "leisure": "fitness_station",
+        "ref": "11",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4263833,
+          47.4047682
+        ]
+      },
+      "id": "node/861706886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861706908",
+        "leisure": "fitness_station",
+        "ref": "9",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4248674,
+          47.4054671
+        ]
+      },
+      "id": "node/861706908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707040",
+        "leisure": "fitness_station",
+        "ref": "13",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4241885,
+          47.4034695
+        ]
+      },
+      "id": "node/861707040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707067",
+        "leisure": "fitness_station",
+        "ref": "8",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4233361,
+          47.4054104
+        ]
+      },
+      "id": "node/861707067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707150",
+        "leisure": "fitness_station",
+        "ref": "3",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4299158,
+          47.4050564
+        ]
+      },
+      "id": "node/861707150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707158",
+        "leisure": "fitness_station",
+        "ref": "Zusatzübung",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4243928,
+          47.4035167
+        ]
+      },
+      "id": "node/861707158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707183",
+        "leisure": "fitness_station",
+        "ref": "10",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4252795,
+          47.4053455
+        ]
+      },
+      "id": "node/861707183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707234",
+        "leisure": "fitness_station",
+        "ref": "6",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.423721,
+          47.405656
+        ]
+      },
+      "id": "node/861707234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707273",
+        "leisure": "fitness_station",
+        "ref": "2",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4278519,
+          47.404202
+        ]
+      },
+      "id": "node/861707273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/861707288",
+        "leisure": "fitness_station",
+        "ref": "15",
+        "sport": "exercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4235439,
+          47.402695
+        ]
+      },
+      "id": "node/861707288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1310903146",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.36925,
+          47.4210782
+        ]
+      },
+      "id": "node/1310903146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1310903147",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3681664,
+          47.4208314
+        ]
+      },
+      "id": "node/1310903147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1310903155",
+        "addr:housename": "FitnessPlus",
+        "addr:housenumber": "4",
+        "addr:postcode": "9000",
+        "addr:street": "Geltenwilenstrasse",
+        "leisure": "fitness_centre",
+        "name": "fitnessplus",
+        "website": "https://fitnessplus.ch/st-gallen/studio/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3658657,
+          47.4196786
+        ]
+      },
+      "id": "node/1310903155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395315671",
+        "leisure": "swimming_pool",
+        "name": "Nichtschwimmer Erwachsene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.389553,
+          47.4221545
+        ]
+      },
+      "id": "node/1395315671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395315672",
+        "leisure": "swimming_pool",
+        "name": "Nichtschwimmer Kinder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3895188,
+          47.4222321
+        ]
+      },
+      "id": "node/1395315672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1630391591",
+        "addr:housenumber": "91",
+        "addr:street": "St. Jakob-Strasse",
+        "leisure": "sauna",
+        "name": "Mann-O-Mann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.382925,
+          47.4328847
+        ]
+      },
+      "id": "node/1630391591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728558180",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3509095,
+          47.4171357
+        ]
+      },
+      "id": "node/1728558180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728558194",
+        "access": "yes",
+        "bath:open_air": "yes",
+        "covered": "no",
+        "fee": "yes",
+        "leisure": "swimming_pool",
+        "name": "Freibad Lerchenfeld",
+        "sport": "swimming",
+        "water_park": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3417313,
+          47.4158291
+        ]
+      },
+      "id": "node/1728558194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728558206",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3499174,
+          47.4167402
+        ]
+      },
+      "id": "node/1728558206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1829506817",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4101782,
+          47.4025088
+        ]
+      },
+      "id": "node/1829506817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2276527127",
+        "leisure": "picnic_table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4285232,
+          47.408189
+        ]
+      },
+      "id": "node/2276527127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2848314952",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "5",
+        "addr:postcode": "9000",
+        "addr:street": "Andreasstrasse",
+        "alt_name": "ruum42",
+        "description": "Hacker und Makerspace, jeden Dienstag öffentlicher Linuxtreff ab 18:30",
+        "drink:club-mate": "yes",
+        "leisure": "hackerspace",
+        "name": "Ruum42",
+        "name:de": "ruum 24",
+        "opening_hours": "Tu 18:30-23:00",
+        "website": "https://www.ruum42.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3556133,
+          47.4207595
+        ]
+      },
+      "id": "node/2848314952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4072382617",
+        "leisure": "sports_centre",
+        "name": "Turnhalle Gotthelfstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3836009,
+          47.4184323
+        ]
+      },
+      "id": "node/4072382617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200228589",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3519277,
+          47.4125644
+        ]
+      },
+      "id": "node/4200228589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319153297",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3713098,
+          47.415165
+        ]
+      },
+      "id": "node/4319153297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4734212725",
+        "description": "Ausgebaute Feuerstelle mit Sitzmöglichkeit",
+        "leisure": "firepit",
+        "name": "Feuerstelle Freudenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3926514,
+          47.420101
+        ]
+      },
+      "id": "node/4734212725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745658359",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3384065,
+          47.4238361
+        ]
+      },
+      "id": "node/4745658359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753802403",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "44",
+        "addr:postcode": "9014",
+        "addr:street": "Haggenstrasse",
+        "leisure": "dance",
+        "name": "Tanz-Zentrum St. Gallen",
+        "phone": "+41 79 600 70 08",
+        "website": "http://www.tanz-zentrum.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.334757,
+          47.4075888
+        ]
+      },
+      "id": "node/4753802403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774476861",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3734015,
+          47.4168801
+        ]
+      },
+      "id": "node/4774476861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811433480",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3314275,
+          47.4116191
+        ]
+      },
+      "id": "node/4811433480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811433485",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3327445,
+          47.4114737
+        ]
+      },
+      "id": "node/4811433485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811433486",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3336598,
+          47.4034617
+        ]
+      },
+      "id": "node/4811433486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811433487",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.335738,
+          47.4031583
+        ]
+      },
+      "id": "node/4811433487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5153019933",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3519621,
+          47.4055045
+        ]
+      },
+      "id": "node/5153019933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305225772",
+        "leisure": "spa",
+        "name": "Tau Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4198822,
+          47.4509185
+        ]
+      },
+      "id": "node/5305225772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776945450",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "49",
+        "addr:postcode": "9011",
+        "addr:street": "Dreilindenstrasse",
+        "description": "Minigolf mit kleinem Kiosk des Betreibers. Nur bei trockenem Wetter geöffnet. Bei bedarf vorher anrufen.",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Dreilinden",
+        "opening_hours": "Mo-Fr 12:00-22:00; Su 10:00-22:00",
+        "phone": "+41 71 245 63 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3909004,
+          47.4233634
+        ]
+      },
+      "id": "node/5776945450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776967857",
+        "amenity": "bbq",
+        "covered": "no",
+        "fuel": "wood",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3150457,
+          47.3999923
+        ]
+      },
+      "id": "node/5776967857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776973387",
+        "amenity": "bbq",
+        "fuel": "wood",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3379677,
+          47.3999168
+        ]
+      },
+      "id": "node/5776973387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284244287",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3969604,
+          47.4291312
+        ]
+      },
+      "id": "node/6284244287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418868621",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3969795,
+          47.4292714
+        ]
+      },
+      "id": "node/6418868621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418868623",
+        "access": "private",
+        "leisure": "playground",
+        "opening_hours": "Mo-Su 07:00-12:00,13:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3964443,
+          47.4290431
+        ]
+      },
+      "id": "node/6418868623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7346668513",
+        "access": "yes",
+        "description": "Feuerstelle Tivolihöhle",
+        "leisure": "firepit",
+        "seasonal": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3996445,
+          47.4278146
+        ]
+      },
+      "id": "node/7346668513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7389789293",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3950969,
+          47.4222151
+        ]
+      },
+      "id": "node/7389789293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392863630",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4082271,
+          47.4298073
+        ]
+      },
+      "id": "node/7392863630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503188456",
+        "leisure": "fitness_centre",
+        "name": "Active Fitness",
+        "opening_hours": "Mo-Fr 06:30-21:30; PH,Sa,Su 08:00-17:00",
+        "sport": "fitness",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744951,
+          47.4277645
+        ]
+      },
+      "id": "node/7503188456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482931",
+        "leisure": "fitness_centre",
+        "name": "update Fitness",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3770229,
+          47.4266329
+        ]
+      },
+      "id": "node/7503482931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503565614",
+        "leisure": "escape_game",
+        "name": "Escape Company",
+        "website": "https://escapecompany.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3739839,
+          47.4263861
+        ]
+      },
+      "id": "node/7503565614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7707388763",
+        "leisure": "outdoor_seating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3494189,
+          47.4161534
+        ]
+      },
+      "id": "node/7707388763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7707388764",
+        "leisure": "outdoor_seating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3529057,
+          47.4155653
+        ]
+      },
+      "id": "node/7707388764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7809494363",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3140665,
+          47.4225769
+        ]
+      },
+      "id": "node/7809494363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812584035",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3147896,
+          47.4229614
+        ]
+      },
+      "id": "node/7812584035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902442511",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3599137,
+          47.4055101
+        ]
+      },
+      "id": "node/7902442511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7904111243",
+        "leisure": "pitch",
+        "sport": "bmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3682559,
+          47.4206564
+        ]
+      },
+      "id": "node/7904111243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8191635973",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3928653,
+          47.426195
+        ]
+      },
+      "id": "node/8191635973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8349565887",
+        "access": "yes",
+        "description": "mit Nachbau der Solitüden-Schaukel",
+        "leisure": "firepit",
+        "seasonal": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3703518,
+          47.4154101
+        ]
+      },
+      "id": "node/8349565887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8508870593",
+        "leisure": "park",
+        "name": "Buchwaldpark",
+        "operator": "Stadt Sankt Gallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3936192,
+          47.4372476
+        ]
+      },
+      "id": "node/8508870593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839780",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3806405,
+          47.4259241
+        ]
+      },
+      "id": "node/8536839780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839781",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3806121,
+          47.4259066
+        ]
+      },
+      "id": "node/8536839781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839782",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3805875,
+          47.4258931
+        ]
+      },
+      "id": "node/8536839782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839783",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3775097,
+          47.4408005
+        ]
+      },
+      "id": "node/8536839783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839784",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761171,
+          47.436339
+        ]
+      },
+      "id": "node/8536839784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839785",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761243,
+          47.4363099
+        ]
+      },
+      "id": "node/8536839785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839786",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3740372,
+          47.4355895
+        ]
+      },
+      "id": "node/8536839786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839787",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3740874,
+          47.435605
+        ]
+      },
+      "id": "node/8536839787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839788",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3741303,
+          47.4356282
+        ]
+      },
+      "id": "node/8536839788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839789",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3741876,
+          47.4356272
+        ]
+      },
+      "id": "node/8536839789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839790",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3861522,
+          47.4380168
+        ]
+      },
+      "id": "node/8536839790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839791",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3861923,
+          47.4379819
+        ]
+      },
+      "id": "node/8536839791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839792",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3931219,
+          47.4386545
+        ]
+      },
+      "id": "node/8536839792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839793",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3921051,
+          47.4265495
+        ]
+      },
+      "id": "node/8536839793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839794",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3964125,
+          47.4297855
+        ]
+      },
+      "id": "node/8536839794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8536839795",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3779539,
+          47.4165007
+        ]
+      },
+      "id": "node/8536839795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548402548",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3270615,
+          47.4236186
+        ]
+      },
+      "id": "node/8548402548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548402549",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3270225,
+          47.4236529
+        ]
+      },
+      "id": "node/8548402549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548402563",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3464561,
+          47.4168631
+        ]
+      },
+      "id": "node/8548402563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548402564",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3504402,
+          47.4171399
+        ]
+      },
+      "id": "node/8548402564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548402565",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.350407,
+          47.4171748
+        ]
+      },
+      "id": "node/8548402565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8549888724",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4223098,
+          47.4507406
+        ]
+      },
+      "id": "node/8549888724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573866781",
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "31",
+        "addr:postcode": "9000",
+        "addr:street": "Feldlistrasse",
+        "internet_access": "wlan",
+        "leisure": "makerspace",
+        "level": "-1",
+        "name": "Werft 31 (FE)",
+        "operator": "OST",
+        "room": "workshop",
+        "website": "https://werft31.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3531523,
+          47.4224431
+        ]
+      },
+      "id": "node/8573866781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8578772580",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374207,
+          47.4307089
+        ]
+      },
+      "id": "node/8578772580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8578772581",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3742377,
+          47.4307342
+        ]
+      },
+      "id": "node/8578772581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899411",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3815721,
+          47.4296463
+        ]
+      },
+      "id": "node/8620899411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899412",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3814425,
+          47.429579
+        ]
+      },
+      "id": "node/8620899412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899413",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3641458,
+          47.4116942
+        ]
+      },
+      "id": "node/8620899413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899414",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3640586,
+          47.4116817
+        ]
+      },
+      "id": "node/8620899414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899415",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3179272,
+          47.4046782
+        ]
+      },
+      "id": "node/8620899415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620899416",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3904375,
+          47.4371614
+        ]
+      },
+      "id": "node/8620899416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939717",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4112479,
+          47.4343691
+        ]
+      },
+      "id": "node/8620939717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939718",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4111441,
+          47.4343719
+        ]
+      },
+      "id": "node/8620939718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939719",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3520451,
+          47.4215515
+        ]
+      },
+      "id": "node/8620939719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939720",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4099963,
+          47.4444243
+        ]
+      },
+      "id": "node/8620939720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939721",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3331533,
+          47.4120678
+        ]
+      },
+      "id": "node/8620939721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939722",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4052801,
+          47.4396648
+        ]
+      },
+      "id": "node/8620939722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620939723",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.410495,
+          47.4415399
+        ]
+      },
+      "id": "node/8620939723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8644321390",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4097894,
+          47.4437813
+        ]
+      },
+      "id": "node/8644321390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8650542989",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3659725,
+          47.4253362
+        ]
+      },
+      "id": "node/8650542989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8650542990",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3659509,
+          47.4252967
+        ]
+      },
+      "id": "node/8650542990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8650542991",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3658948,
+          47.4253143
+        ]
+      },
+      "id": "node/8650542991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654875956",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3472126,
+          47.4165383
+        ]
+      },
+      "id": "node/8654875956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8654875957",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3320615,
+          47.411181
+        ]
+      },
+      "id": "node/8654875957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8765116986",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3906528,
+          47.4306229
+        ]
+      },
+      "id": "node/8765116986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8860105872",
+        "leisure": "tanning_salon",
+        "name": "Sun World",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "website": "https://www.sun-world.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3733844,
+          47.4256102
+        ]
+      },
+      "id": "node/8860105872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8890367386",
+        "access": "private",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.396081,
+          47.4241883
+        ]
+      },
+      "id": "node/8890367386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895910085",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3811852,
+          47.4243032
+        ]
+      },
+      "id": "node/8895910085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905225090",
+        "access": "yes",
+        "leisure": "firepit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751858,
+          47.4114185
+        ]
+      },
+      "id": "node/8905225090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931051215",
+        "leisure": "fitness_centre",
+        "level": "2",
+        "name": "Haus Tao",
+        "sport": "meditation",
+        "website": "https://haustao.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776162,
+          47.4246381
+        ]
+      },
+      "id": "node/8931051215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931051216",
+        "leisure": "fitness_centre",
+        "level": "2",
+        "name": "Shuniya",
+        "sport": "yoga",
+        "website": "https://www.shuniya.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776271,
+          47.4246349
+        ]
+      },
+      "id": "node/8931051216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931056517",
+        "leisure": "fitness_centre",
+        "level": "2",
+        "name": "Atelier für Yoga",
+        "sport": "yoga",
+        "website": "https://atelierfüryoga.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776362,
+          47.4246356
+        ]
+      },
+      "id": "node/8931056517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092358351",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.410879,
+          47.4491908
+        ]
+      },
+      "id": "node/9092358351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9116494893",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3141386,
+          47.4228523
+        ]
+      },
+      "id": "node/9116494893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9116494894",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3447212,
+          47.4418835
+        ]
+      },
+      "id": "node/9116494894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9117910468",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3644748,
+          47.4147174
+        ]
+      },
+      "id": "node/9117910468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9117910491",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.406027,
+          47.4270757
+        ]
+      },
+      "id": "node/9117910491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733179",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3967518,
+          47.4303754
+        ]
+      },
+      "id": "node/9118733179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733180",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.398734,
+          47.4351273
+        ]
+      },
+      "id": "node/9118733180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733181",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3976745,
+          47.4337012
+        ]
+      },
+      "id": "node/9118733181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733194",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3502531,
+          47.4188693
+        ]
+      },
+      "id": "node/9118733194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733234",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3903992,
+          47.4230752
+        ]
+      },
+      "id": "node/9118733234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118733235",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3903394,
+          47.4231456
+        ]
+      },
+      "id": "node/9118733235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9119582584",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3916476,
+          47.4373054
+        ]
+      },
+      "id": "node/9119582584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9119591819",
+        "leisure": "sport",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3862774,
+          47.4253925
+        ]
+      },
+      "id": "node/9119591819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153312388",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3521411,
+          47.42148
+        ]
+      },
+      "id": "node/9153312388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153312390",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3652963,
+          47.4167142
+        ]
+      },
+      "id": "node/9153312390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9202870457",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3352619,
+          47.4026874
+        ]
+      },
+      "id": "node/9202870457"
+    }
+  ]
+}
