@@ -1,0 +1,585 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-06T09:37:32Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276847742",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "29",
+        "addr:postcode": "9008",
+        "addr:street": "Bachstrasse",
+        "alt_name": "Migros St. Fiden (MM)",
+        "branch": "St. Gallen St. Fiden",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "brand:wikipedia": "en:Migros",
+        "name": "Migros",
+        "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "supermarket",
+        "website": "https://filialen.migros.ch/de/migros-supermarkt-st-gallen-st-fiden",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3920818,
+          47.4356824
+        ]
+      },
+      "id": "node/276847742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336060971",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3488813,
+          47.4421128
+        ]
+      },
+      "id": "node/336060971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360417386",
+        "name": "SPAR",
+        "operator": "SPAR",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3178144,
+          47.4225889
+        ]
+      },
+      "id": "node/360417386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445376406",
+        "addr:housenumber": "6",
+        "addr:street": "Bohl",
+        "name": "Coop City",
+        "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-17:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3770371,
+          47.426162
+        ]
+      },
+      "id": "node/445376406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660455574",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "249",
+        "addr:postcode": "9016",
+        "addr:street": "Rorschacherstrasse",
+        "name": "Migros Neudorf",
+        "operator": "Migros",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4052429,
+          47.4371841
+        ]
+      },
+      "id": "node/660455574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660656463",
+        "name": "Aldi Suisse",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.416663,
+          47.4434067
+        ]
+      },
+      "id": "node/660656463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/661094293",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4048908,
+          47.4370766
+        ]
+      },
+      "id": "node/661094293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/794048748",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "operator": "Denner",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3536615,
+          47.4188513
+        ]
+      },
+      "id": "node/794048748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1003935154",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "2",
+        "addr:postcode": "9014",
+        "addr:street": "Wolfganghof",
+        "name": "SPAR Supermarkt Wolfganghof",
+        "operator": "Spar",
+        "phone": "+41 71 278 62 67",
+        "shop": "supermarket",
+        "website": "https://www.spar.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3367154,
+          47.402848
+        ]
+      },
+      "id": "node/1003935154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1781699424",
+        "addr:housenumber": "48",
+        "addr:postcode": "9000",
+        "addr:street": "Neugasse",
+        "name": "Coop",
+        "opening_hours": "Mo-We, Fr 07:00-19:00; Th 07:00-21:00; Sa 07:00-17:00",
+        "operator": "Coop Genossenschaft",
+        "shop": "supermarket",
+        "website": "http://www.coop.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744095,
+          47.4242333
+        ]
+      },
+      "id": "node/1781699424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3303851166",
+        "addr:housenumber": "28",
+        "addr:street": "Kornhausstrasse",
+        "branch": "St. Gallen Neumarkt",
+        "brand": "Denner",
+        "brand:wikipedia": "de:Denner",
+        "level": "-1",
+        "name": "Denner",
+        "operator": "Denner",
+        "shop": "supermarket",
+        "website": "https://www.denner.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3716169,
+          47.421646
+        ]
+      },
+      "id": "node/3303851166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3303882792",
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "150",
+        "addr:postcode": "9000",
+        "addr:street": "Rorschacherstrasse",
+        "name": "Migros Grossacker",
+        "opening_hours": "Mo-Fr 08:30-19:00; Th 08:30-20:00; Sa 08:00-17:00",
+        "operator": "Migros",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q57289203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3963374,
+          47.4313942
+        ]
+      },
+      "id": "node/3303882792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296281",
+        "addr:city": "Abtwil",
+        "addr:housenumber": "7",
+        "addr:postcode": "9030",
+        "addr:street": "Wiesenbachstrasse",
+        "alt_name": "Migros Säntispark (MM)",
+        "branch": "Abtwil Säntispark",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "brand:wikipedia": "de:Migros",
+        "name": "Migros",
+        "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-21:00, Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "website": "https://filialen.migros.ch/de/migros-supermarkt-abtwil-saentispark",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3162485,
+          47.4172408
+        ]
+      },
+      "id": "node/3324296281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3468387906",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "82",
+        "addr:postcode": "9000",
+        "addr:street": "St. Georgen-Strasse",
+        "opening_hours": "Mo-Fr 07:30-12:15,14:00-18:30;Sa 07:30-13:00",
+        "operator": "Maxi-Markt",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3818507,
+          47.4166196
+        ]
+      },
+      "id": "node/3468387906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625456912",
+        "name": "Neumarkt 4",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3711404,
+          47.4205051
+        ]
+      },
+      "id": "node/4625456912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5058547354",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "28",
+        "addr:postcode": "9000",
+        "addr:street": "Brühlgasse",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "brand:wikipedia": "en:Migros",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Migros",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3780973,
+          47.4252288
+        ]
+      },
+      "id": "node/5058547354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5214936109",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "159",
+        "addr:postcode": "9014",
+        "addr:street": "Fürstenlandstrasse",
+        "name": "Migros Bruggen",
+        "operator": "Migros Ostschweiz",
+        "shop": "supermarket",
+        "start_date": "09.11.2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3351484,
+          47.4100137
+        ]
+      },
+      "id": "node/5214936109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5214936110",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "157",
+        "addr:postcode": "9014",
+        "addr:street": "Fürstenlandstrasse",
+        "brand": "Denner",
+        "brand:wikidata": "Q379911",
+        "brand:wikipedia": "en:Denner (supermarket)",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "shop": "supermarket",
+        "start_date": "09.11.2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3356097,
+          47.4101208
+        ]
+      },
+      "id": "node/5214936110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371303423",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "26",
+        "addr:postcode": "9008",
+        "addr:street": "Langgasse",
+        "name": "Denner",
+        "opening_hours": "Mo-Fr 07:30-19:00;Sa 07:30-17:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3865985,
+          47.4354964
+        ]
+      },
+      "id": "node/5371303423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371339321",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "brand:wikipedia": "en:Migros",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Migros",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3862985,
+          47.435286
+        ]
+      },
+      "id": "node/5371339321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582222822",
+        "alt_name": "Migros Neumarkt (MMM)",
+        "branch": "St. Gallen Neumarkt",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "brand:wikipedia": "de:Migros",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "level": "0",
+        "name": "Migros",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "supermarket",
+        "website": "https://filialen.migros.ch/de/migros-supermarkt-st-gallen-neumarkt",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3705595,
+          47.422221
+        ]
+      },
+      "id": "node/5582222822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480820",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "34",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Spisergass Drogerie + Reformhaus",
+        "shop": "supermarket",
+        "website": "http://www.spisergassdrogerie.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3785995,
+          47.4244441
+        ]
+      },
+      "id": "node/5839480820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5927318017",
+        "addr:housenumber": "122",
+        "addr:street": "Fürstenlandstrasse",
+        "name": "OTTO'S",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3394828,
+          47.4117103
+        ]
+      },
+      "id": "node/5927318017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6041664355",
+        "addr:housenumber": "11",
+        "addr:street": "Ulmenstrasse",
+        "name": "Migros Lachen",
+        "operator": "Migros Ostschweiz",
+        "shop": "supermarket",
+        "start_date": "28.2.2019",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3540033,
+          47.4203635
+        ]
+      },
+      "id": "node/6041664355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8555112321",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3698656,
+          47.4219231
+        ]
+      },
+      "id": "node/8555112321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8661923300",
+        "name": "Denner",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3947481,
+          47.4307763
+        ]
+      },
+      "id": "node/8661923300"
+    }
+  ]
+}

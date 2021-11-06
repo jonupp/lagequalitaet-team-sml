@@ -1,0 +1,7521 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-06T10:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60271460",
+        "addr:housenumber": "35",
+        "addr:street": "St. Leonhard-Strasse",
+        "name": "Neumarkt 1",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3706431,
+          47.4221279
+        ]
+      },
+      "id": "node/60271460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60271473",
+        "addr:housenumber": "39",
+        "addr:street": "St. Leonhard-Strasse",
+        "name": "Neumarkt 2",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3701308,
+          47.4219065
+        ]
+      },
+      "id": "node/60271473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60271494",
+        "addr:housenumber": "29",
+        "addr:street": "Vadianstrasse",
+        "name": "Neumarkt 3",
+        "opening_hours:signed": "no",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3710587,
+          47.4214231
+        ]
+      },
+      "id": "node/60271494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60272233",
+        "addr:housenumber": "28",
+        "addr:street": "Kornhausstrasse",
+        "name": "Neumarkt 5",
+        "opening_hours:signed": "no",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3717555,
+          47.4216904
+        ]
+      },
+      "id": "node/60272233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270276393",
+        "name": "Hairlounge 5 Eleven",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3796139,
+          47.4393427
+        ]
+      },
+      "id": "node/270276393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313295651",
+        "name": "Giro Sport Factory",
+        "opening_hours": "Tu-Fr 12:30-18:30; Sa 09:00-17:00",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3731319,
+          47.4257791
+        ]
+      },
+      "id": "node/313295651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316742905",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "65",
+        "addr:postcode": "9010",
+        "addr:street": "Guisanstrasse",
+        "name": "Wöschbox",
+        "opening_hours": "Mo-Sa 08:00-12:00,13:00-18:00",
+        "self_service": "no",
+        "shop": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776973,
+          47.4375151
+        ]
+      },
+      "id": "node/316742905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336057985",
+        "name": "Metzgerei",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3416051,
+          47.4437814
+        ]
+      },
+      "id": "node/336057985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/337917802",
+        "amenity": "restaurant",
+        "created_by": "Potlatch 0.10f",
+        "shop": "laundry",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3346982,
+          47.424264
+        ]
+      },
+      "id": "node/337917802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445418914",
+        "name": "Falken Drogerie",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759949,
+          47.4265971
+        ]
+      },
+      "id": "node/445418914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445473215",
+        "name": "Ochsner Shoes",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751536,
+          47.4242156
+        ]
+      },
+      "id": "node/445473215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473593512",
+        "name": "Foto Mayer AG",
+        "shop": "electronics",
+        "url": "http://www.mayerag.ch/",
+        "website": "http://www.mayerag.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3727314,
+          47.4213072
+        ]
+      },
+      "id": "node/473593512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127610",
+        "name": "Metrobeck",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3709966,
+          47.4229743
+        ]
+      },
+      "id": "node/616127610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127611",
+        "name": "Foto Hausamann",
+        "shop": "photo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3708115,
+          47.4230133
+        ]
+      },
+      "id": "node/616127611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127613",
+        "name": "Rhyner Kiosk",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3704362,
+          47.4236869
+        ]
+      },
+      "id": "node/616127613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127614",
+        "addr:city": "St. Gallen",
+        "addr:postcode": "9000",
+        "alt_name": "Blume 3000 St. Gallen",
+        "branch": "St. Gallen Bahnhof",
+        "name": "Blume 3000",
+        "opening_hours": "Mo-Fr 07:00-21:00, Sa-Su 08:00-20:00",
+        "operator": "Blume 3000",
+        "shop": "florist",
+        "website": "https://www.blume3000.ch/unsere-standorte/place/st-gallenbahnhof/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3702632,
+          47.4237544
+        ]
+      },
+      "id": "node/616127614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127624",
+        "addr:housenumber": "5",
+        "addr:street": "Marktgasse",
+        "name": "Schiff",
+        "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-20:00; Sa 08:00-17:00",
+        "shop": "stationery",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763566,
+          47.4258935
+        ]
+      },
+      "id": "node/616127624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127625",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "2",
+        "addr:postcode": "9000",
+        "addr:street": "Marktgasse",
+        "internet_access": "no",
+        "name": "Rösslitor Bücher",
+        "opening_hours": "Mo-Fr 9:00-18:30; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "books",
+        "website": "https://www.orellfuessli.ch/shop/home/filialen/showDetails/1028/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3764185,
+          47.4255857
+        ]
+      },
+      "id": "node/616127625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127626",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9000",
+        "addr:street": "Marktgasse",
+        "alt_name": "Metzgerei Traiteur Rietmann",
+        "name": "Rietmann",
+        "operator": "Kauffmann AG Fachgeschäfte",
+        "shop": "butcher",
+        "website": "https://www.kauffmannag.ch/de/standorte/Metzgerei-Traiteur-Rietmann-stgallen.php",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763292,
+          47.4259855
+        ]
+      },
+      "id": "node/616127626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127628",
+        "name": "Gschwend",
+        "shop": "bakery",
+        "website": "https://www.cafe-gschwend.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3760505,
+          47.4268262
+        ]
+      },
+      "id": "node/616127628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127631",
+        "name": "Schneider",
+        "opening_hours": "Mo-Fr 08:30-18:30; Th 08:30-20:00; Sa 08:30-17:00",
+        "shop": "shoes",
+        "website": "https://www.schneiderschuhe.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3760513,
+          47.4267687
+        ]
+      },
+      "id": "node/616127631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127632",
+        "name": "Gala Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757184,
+          47.4266808
+        ]
+      },
+      "id": "node/616127632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616127634",
+        "name": "Stadtblumen",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su off",
+        "shop": "florist",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3768758,
+          47.4256506
+        ]
+      },
+      "id": "node/616127634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660455583",
+        "operator": "Bäckerei Schwyter",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4060355,
+          47.4368127
+        ]
+      },
+      "id": "node/660455583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660458854",
+        "name": "Hair Design",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3773125,
+          47.4371937
+        ]
+      },
+      "id": "node/660458854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/714210591",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "9000",
+        "addr:street": "Vadianstrasse",
+        "email": "info@skk.ch",
+        "name": "HSG Skriptekommission",
+        "shop": "books",
+        "short_name": "SKK",
+        "website": "https://myskk.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3732668,
+          47.4315304
+        ]
+      },
+      "id": "node/714210591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737390695",
+        "name": "Ryser",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759158,
+          47.4265374
+        ]
+      },
+      "id": "node/737390695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904185718",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "9000",
+        "addr:street": "Rorschacherstrasse",
+        "name": "FS Hot Wheels",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3821657,
+          47.4265467
+        ]
+      },
+      "id": "node/904185718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904185743",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3820448,
+          47.4251875
+        ]
+      },
+      "id": "node/904185743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904185757",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3830873,
+          47.4267752
+        ]
+      },
+      "id": "node/904185757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904185762",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "45",
+        "addr:postcode": "9000",
+        "addr:street": "Rorschacherstrasse",
+        "name": "SEB Renotec",
+        "shop": "kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3825233,
+          47.4267113
+        ]
+      },
+      "id": "node/904185762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904185768",
+        "name": "FonAudio",
+        "shop": "hifi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.382959,
+          47.4266632
+        ]
+      },
+      "id": "node/904185768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1067455299",
+        "name": "Nissan Garage Willhelm",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3377741,
+          47.4456746
+        ]
+      },
+      "id": "node/1067455299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1086725341",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9015",
+        "addr:street": "Gaiserwaldstrasse",
+        "alt_name": "OBI St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "OBI",
+        "brand:wikidata": "Q300518",
+        "brand:wikipedia": "de:Obi (Baumarkt)",
+        "name": "OBI",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.obi.ch/de/baumarkt/st-gallen/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3128494,
+          47.4151225
+        ]
+      },
+      "id": "node/1086725341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1109138987",
+        "name": "Garage Ebnet",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.346982,
+          47.4309034
+        ]
+      },
+      "id": "node/1109138987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1110822882",
+        "name": "Blumen Dörfli",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3407204,
+          47.4443599
+        ]
+      },
+      "id": "node/1110822882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236181021",
+        "addr:housenumber": "29",
+        "addr:postcode": "9000",
+        "addr:street": "Vadianstrasse",
+        "level": "0",
+        "name": "Bäckerei Kuhn",
+        "opening_hours": "Mo-We,Fr 06:00-20:00; Th 06:00-21:00; Sa 06:00-18:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3712439,
+          47.4215527
+        ]
+      },
+      "id": "node/1236181021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1240778397",
+        "name": "k Kiosk",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375911,
+          47.426179
+        ]
+      },
+      "id": "node/1240778397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301042702",
+        "name": "Metzgerei Signer",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3589978,
+          47.4172448
+        ]
+      },
+      "id": "node/1301042702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359898155",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3424092,
+          47.4430125
+        ]
+      },
+      "id": "node/1359898155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1391333389",
+        "addr:housenumber": "80",
+        "addr:postcode": "9000",
+        "addr:street": "Linsebühlstrasse",
+        "name": "Capelli",
+        "name:de": "Cappelli",
+        "opening_hours": "Mo-Tu, Th-Fr 07:00-12:15, 14:00-18:30; We 07:00-12:15; Sa 07:00-14:00",
+        "phone": "+41 71 222 35 48",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3839932,
+          47.4251112
+        ]
+      },
+      "id": "node/1391333389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392873246",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3795614,
+          47.4195568
+        ]
+      },
+      "id": "node/1392873246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392873390",
+        "name": "Stampfl",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3781822,
+          47.4207852
+        ]
+      },
+      "id": "node/1392873390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1586257661",
+        "name": "Blumen Ginkgo",
+        "opening_hours": "Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3796852,
+          47.4394083
+        ]
+      },
+      "id": "node/1586257661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728535230",
+        "addr:housename": "Lagerhaus",
+        "addr:housenumber": "44",
+        "addr:postcode": "9000",
+        "addr:street": "Davidstrasse",
+        "designation": "Delinat-Weindepot St. Gallen",
+        "name": "Delinat",
+        "shop": "alcohol",
+        "website": "https://www.delinat.com/de/weindepot-st.gallen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3666964,
+          47.4195243
+        ]
+      },
+      "id": "node/1728535230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728548567",
+        "name": "Blumen Karin",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3544932,
+          47.4193174
+        ]
+      },
+      "id": "node/1728548567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728548571",
+        "name": "Vögeli Beck",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3543591,
+          47.4192484
+        ]
+      },
+      "id": "node/1728548571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728548578",
+        "name": "Ramsauer Radsport",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3565108,
+          47.4203384
+        ]
+      },
+      "id": "node/1728548578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728558207",
+        "name": "Schmid",
+        "shop": "butcher",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3539675,
+          47.4193029
+        ]
+      },
+      "id": "node/1728558207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1737570094",
+        "addr:city": "Speicher",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "9042",
+        "addr:street": "Obere Hinterwies",
+        "name": "Coiffeur ums Egg",
+        "shop": "hairdresser",
+        "website": "http://www.coiffeurumsegg.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4346945,
+          47.4158648
+        ]
+      },
+      "id": "node/1737570094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1737619228",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "39",
+        "addr:postcode": "9011",
+        "addr:street": "St. Georgen-Strasse",
+        "name": "AMICI Hairdesign",
+        "shop": "hairdresser",
+        "website": "http://www.amici-hair.ch/standorte/stgallen/index.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3790065,
+          47.4195573
+        ]
+      },
+      "id": "node/1737619228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386979802",
+        "name": "Läderach",
+        "shop": "chocolate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763253,
+          47.4261083
+        ]
+      },
+      "id": "node/2386979802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386979803",
+        "addr:housenumber": "10",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Transa",
+        "opening_hours": "Mo 12:00-18:30; Tu,We,Fr 10:00-18:30; Th 10:00-20:00; Sa 09:00-16:00",
+        "shop": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3728448,
+          47.4257375
+        ]
+      },
+      "id": "node/2386979803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386979804",
+        "name": "Mode Weber",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3731859,
+          47.4237945
+        ]
+      },
+      "id": "node/2386979804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386979811",
+        "name": "Wmf",
+        "shop": "kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3764094,
+          47.4257505
+        ]
+      },
+      "id": "node/2386979811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2387895688",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "87",
+        "addr:postcode": "9000",
+        "addr:street": "St. Jakob-Strasse",
+        "name": "Veloplus",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "https://www.veloplus.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3826031,
+          47.4324756
+        ]
+      },
+      "id": "node/2387895688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2399238319",
+        "brand": "k kiosk",
+        "brand:wikidata": "Q60381703",
+        "brand:wikipedia": "it:K Kiosk",
+        "name": "k kiosk",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3794236,
+          47.42462
+        ]
+      },
+      "id": "node/2399238319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2477699963",
+        "name": "VBSG-Ticketverkauf",
+        "shop": "ticket",
+        "tickets:public_transport": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Schalter sehr hoch gelegen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3707806,
+          47.4239047
+        ]
+      },
+      "id": "node/2477699963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501535572",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "58",
+        "addr:postcode": "9011",
+        "addr:street": "St. Georgen-Strasse",
+        "name": "Rohner's Dorfbeck",
+        "shop": "bakery",
+        "website": "https://www.dorfbeck.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3809295,
+          47.4183912
+        ]
+      },
+      "id": "node/2501535572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2572858153",
+        "name": "Orthoteam",
+        "shop": "medical_supply",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.371868,
+          47.4257054
+        ]
+      },
+      "id": "node/2572858153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645688611",
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "20",
+        "addr:postcode": "9000",
+        "addr:street": "Turnerstrasse",
+        "alt_name": "brockenhaus",
+        "email": "st.gallen@blaukreuz-brockenstube.ch",
+        "name": "Blaukreuz Brockenstube",
+        "opening_hours": "Mo-Fr, PH 13:30-18:00; Sa, PH 10:00-16:00",
+        "operator": "Blaukreuz",
+        "phone": "+41 71 222 22 77",
+        "shop": "second_hand",
+        "short_name": "broki",
+        "website": "https://www.blaueskreuz-sg-app.ch/brockenstuben/brockenstube_st_gallen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355886,
+          47.4171099
+        ]
+      },
+      "id": "node/2645688611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2766752883",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "name": "Mosaika Schmuck",
+        "note": "Der Schmuck Online Shop - Armbänder, Halsketten, Ohrringe",
+        "payment:bitcoin": "yes",
+        "phone": "+41 78 671 31 19",
+        "shop": "accessories",
+        "website": "https://mosaika.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3980523,
+          47.4307205
+        ]
+      },
+      "id": "node/2766752883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987363701",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "7",
+        "addr:postcode": "9000",
+        "addr:street": "Vadianstrasse",
+        "brand": "SportXX",
+        "brand:wikidata": "Q19309319",
+        "contact:website": "https://www.sportxx.ch/de/cp/store/0098037/sportxx-st-gallen-outdoor",
+        "name": "Outdoor by SportXX",
+        "shop": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3733726,
+          47.4230076
+        ]
+      },
+      "id": "node/2987363701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135981528",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "4",
+        "addr:postcode": "9016",
+        "addr:street": "Achslenstrasse",
+        "description": "Informatik und Support, PC Reparatur, online PC Hilfe, IT Consulting, Computerhilfe, PC Doktor, PC Support",
+        "email": "support@fixthis.ch",
+        "it:type": "consulting",
+        "name": "FixThis.ch",
+        "office": "it",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "opening_hours:covid19": "same",
+        "payment:bitcoin": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+41 71 755 70 52",
+        "shop": "computer",
+        "website": "https://fixthis.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4130087,
+          47.4331703
+        ]
+      },
+      "id": "node/3135981528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824519",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "26",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "Blüten & Blatt",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375469,
+          47.4238856
+        ]
+      },
+      "id": "node/3153824519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824521",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "22",
+        "addr:postcode": "9000",
+        "addr:street": "Oberer Graben",
+        "branch": "St. Gallen City",
+        "name": "Botty",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00; PH off",
+        "shop": "shoes",
+        "website": "https://www.botty.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3740325,
+          47.4233025
+        ]
+      },
+      "id": "node/3153824521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824522",
+        "name": "Care Land",
+        "shop": "craft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3720778,
+          47.4242489
+        ]
+      },
+      "id": "node/3153824522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824525",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "47",
+        "addr:postcode": "9001",
+        "addr:street": "Multergasse",
+        "alt_name": "Globus St. Gallen",
+        "branch": "St. Gallen Warenhaus",
+        "brand": "Globus",
+        "brand:wikidata": "Q683505",
+        "name": "Globus",
+        "opening_hours": "Mo-We, Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00",
+        "operator": "Magazine zum Globus",
+        "shop": "department_store",
+        "website": "https://www.globus.ch/filialsuche/store/103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744457,
+          47.4236175
+        ]
+      },
+      "id": "node/3153824525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824526",
+        "name": "Goldschmied Gut",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763771,
+          47.4258038
+        ]
+      },
+      "id": "node/3153824526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824527",
+        "alt_name": "H&M St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "H&M",
+        "brand:wikidata": "Q188326",
+        "brand:wikipedia": "de:H&M",
+        "name": "H&M",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-17:00",
+        "operator": "H&M Hennes & Mauritz",
+        "shop": "clothes",
+        "website": "https://www2.hm.com/de_ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374875,
+          47.4238439
+        ]
+      },
+      "id": "node/3153824527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824528",
+        "name": "Läckerli Huus",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746883,
+          47.4237326
+        ]
+      },
+      "id": "node/3153824528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824529",
+        "name": "Martel AG St. Gallen",
+        "shop": "alcohol",
+        "url": "http://www.martel.ch",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3730434,
+          47.4246177
+        ]
+      },
+      "id": "node/3153824529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153824532",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "55",
+        "addr:postcode": "9000",
+        "addr:street": "Neugasse",
+        "alt_name": "PKZ Women St. Gallen",
+        "branch": "St. Gallen Damenmode",
+        "brand": "PKZ",
+        "brand:wikidata": "Q1661717",
+        "clothes": "women",
+        "name": "PKZ Women",
+        "operator": "PKZ Burger-Kehl & Co.",
+        "shop": "clothes",
+        "website": "https://www.pkz.ch/de/36-storelocator?sid=111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748983,
+          47.4240419
+        ]
+      },
+      "id": "node/3153824532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153825679",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "43",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "alt_name": "UPC Shop St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "UPC",
+        "brand:wikidata": "Q362582",
+        "name": "UPC Shop",
+        "operator": "UPC Schweiz",
+        "shop": "mobile_phone",
+        "website": "https://www.upc.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747734,
+          47.4237931
+        ]
+      },
+      "id": "node/3153825679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153825680",
+        "name": "Weltbild",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763193,
+          47.4250576
+        ]
+      },
+      "id": "node/3153825680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153825681",
+        "addr:housenumber": "39",
+        "addr:street": "St. Leonhard-Strasse",
+        "level": "1",
+        "name": "Zolli Bolli",
+        "opening_hours": "Mo-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "toys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3699572,
+          47.4220017
+        ]
+      },
+      "id": "node/3153825681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166215498",
+        "name": "La Vigna",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747037,
+          47.42654
+        ]
+      },
+      "id": "node/3166215498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166215501",
+        "name": "Teresa Coiffure & Naildesign",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746435,
+          47.4263958
+        ]
+      },
+      "id": "node/3166215501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166215503",
+        "addr:housenumber": "8",
+        "addr:postcode": "9000",
+        "addr:street": "Engelgasse",
+        "bulk_purchase": "only",
+        "email": "info@ganz-ohni.ch",
+        "level": "0",
+        "name": "Ganz Ohni",
+        "opening_hours": "Tu-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-16:00",
+        "organic": "yes",
+        "phone": "+41 78 408 11 50",
+        "shop": "greengrocer",
+        "website": "https://ganz-ohni.ch/",
+        "zero_waste": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747725,
+          47.4263814
+        ]
+      },
+      "id": "node/3166215503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509661",
+        "name": "Alja Stoffe & Mercerie",
+        "opening_hours": "Mo 10:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "fabric",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754765,
+          47.4266832
+        ]
+      },
+      "id": "node/3166509661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509663",
+        "name": "Bachmann",
+        "opening_hours": "Tu-Fr 10:00-12:00,13:00-18:30; Mo 13:00-18:30; Sa 10:00-16:00; Su off",
+        "shop": "musical_instrument",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754075,
+          47.4269063
+        ]
+      },
+      "id": "node/3166509663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509664",
+        "name": "Blue Wonder musikhaus",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753966,
+          47.426746
+        ]
+      },
+      "id": "node/3166509664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509665",
+        "cannabis:cbd": "no",
+        "cannabis:medical": "no",
+        "cannabis:recreational": "yes",
+        "name": "Royal Green",
+        "shop": "cannabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751132,
+          47.4269869
+        ]
+      },
+      "id": "node/3166509665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509666",
+        "addr:housenumber": "18",
+        "addr:street": "Metzgergasse",
+        "name": "Farben Müller",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-16:00",
+        "shop": "paint",
+        "website": "http://www.farben-mueller.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753522,
+          47.4269504
+        ]
+      },
+      "id": "node/3166509666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509668",
+        "name": "Bartolomé Smoker's Lounge",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749389,
+          47.4272383
+        ]
+      },
+      "id": "node/3166509668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509867",
+        "name": "notabene",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747907,
+          47.4273244
+        ]
+      },
+      "id": "node/3166509867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166509870",
+        "name": "vom Fass",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374845,
+          47.4271686
+        ]
+      },
+      "id": "node/3166509870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533861",
+        "name": "Bernet Textilpflege",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761413,
+          47.425429
+        ]
+      },
+      "id": "node/3166533861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533862",
+        "addr:housenumber": "1",
+        "addr:postcode": "9000",
+        "addr:street": "Webergasse",
+        "name": "Bäckerei Konditorei Beckbeck",
+        "name:de": "Bäckerei Konditorei Beckbeck",
+        "opening_hours": "Mo-We, Fr 07:00-18:30; Th 07:00-19:30; Sa 07:30-18:00",
+        "shop": "bakery",
+        "website": "http://www.beckbeck.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747798,
+          47.4236632
+        ]
+      },
+      "id": "node/3166533862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533864",
+        "brand": "Geox",
+        "brand:wikidata": "Q588001",
+        "brand:wikipedia": "en:Geox",
+        "name": "Geox",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765931,
+          47.4250222
+        ]
+      },
+      "id": "node/3166533864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533865",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "32",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "H&M",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375038,
+          47.4236376
+        ]
+      },
+      "id": "node/3166533865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533866",
+        "brand": "Interdiscount",
+        "brand:wikidata": "Q1665980",
+        "brand:wikipedia": "de:Interdiscount",
+        "name": "Interdiscount",
+        "opening_hours": "Mo-We,Fr 09:00-19:00; Th 09:00-20:00; Sa 09:00-18:00",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761882,
+          47.4253647
+        ]
+      },
+      "id": "node/3166533866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533867",
+        "name": "Kuoni",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751443,
+          47.4235147
+        ]
+      },
+      "id": "node/3166533867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533868",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Manor",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3733099,
+          47.4238487
+        ]
+      },
+      "id": "node/3166533868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533869",
+        "name": "Marionnaud",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376279,
+          47.4251721
+        ]
+      },
+      "id": "node/3166533869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533870",
+        "name": "Mode Weber",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3734553,
+          47.4239159
+        ]
+      },
+      "id": "node/3166533870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533994",
+        "brand": "The Body Shop",
+        "brand:wikidata": "Q837851",
+        "brand:wikipedia": "en:The Body Shop",
+        "name": "The Body Shop",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763354,
+          47.4251042
+        ]
+      },
+      "id": "node/3166533994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533995",
+        "name": "Vögele Shoes",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765742,
+          47.4251507
+        ]
+      },
+      "id": "node/3166533995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533996",
+        "name": "Wellauer",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3760307,
+          47.4255662
+        ]
+      },
+      "id": "node/3166533996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533997",
+        "name": "Zebra",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3762412,
+          47.4252801
+        ]
+      },
+      "id": "node/3166533997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3166533998",
+        "name": "hermo Exklusive Herrenmode",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759133,
+          47.4240177
+        ]
+      },
+      "id": "node/3166533998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3210809668",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "33",
+        "addr:postcode": "9014",
+        "addr:street": "Hechtackerstrasse",
+        "name": "Debrunner Acifer",
+        "phone": "+41 71 274 33 18",
+        "shop": "hardware",
+        "website": "https://dkh.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3443806,
+          47.4105543
+        ]
+      },
+      "id": "node/3210809668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3303851168",
+        "alt_name": "melectronics St. Gallen",
+        "branch": "St. Gallen Neumarkt",
+        "level": "1",
+        "name": "melectronics",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "electronics",
+        "website": "https://www.melectronics.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3705192,
+          47.4219884
+        ]
+      },
+      "id": "node/3303851168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296286",
+        "addr:city": "Abtwil",
+        "addr:housenumber": "7",
+        "addr:postcode": "9030",
+        "addr:street": "Wiesenbachstrasse",
+        "alt_name": "melectronics Säntispark",
+        "branch": "Abtwil Säntispark",
+        "name": "melectronics",
+        "opening_hours": "Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "electronics",
+        "website": "https://www.melectronics.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3165152,
+          47.4172818
+        ]
+      },
+      "id": "node/3324296286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296289",
+        "addr:city": "Abtwil",
+        "addr:housenumber": "7",
+        "addr:postcode": "9030",
+        "addr:street": "Wiesenbachstrasse",
+        "alt_name": "SportXX Säntispark",
+        "branch": "Abtwil Säntispark",
+        "brand": "SportXX",
+        "brand:wikidata": "Q19309319",
+        "name": "SportXX",
+        "opening_hours": "Mo-Th 08:30-19:00, Fr 08:30-21:00, Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "sports",
+        "website": "https://www.sportxx.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3156504,
+          47.4173024
+        ]
+      },
+      "id": "node/3324296289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296295",
+        "operator": "Adesso",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3158343,
+          47.4173762
+        ]
+      },
+      "id": "node/3324296295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296296",
+        "operator": "Dosenbach",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3160929,
+          47.4173858
+        ]
+      },
+      "id": "node/3324296296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296298",
+        "operator": "Calida",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3163314,
+          47.4174199
+        ]
+      },
+      "id": "node/3324296298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296302",
+        "operator": "Zebra",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3157961,
+          47.4175151
+        ]
+      },
+      "id": "node/3324296302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296303",
+        "addr:city": "Abtwil",
+        "addr:housenumber": "7",
+        "addr:postcode": "9030",
+        "addr:street": "Wiesenbachstrasse",
+        "alt_name": "Hotelplan Abtwil",
+        "branch": "Abtwil Säntispark",
+        "brand": "Hotelplan",
+        "name": "Hotelplan",
+        "operator": "Hotelplan Suisse",
+        "shop": "travel_agency",
+        "website": "https://www.hotelplan.ch/hotelplan-abtwil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3160406,
+          47.4175424
+        ]
+      },
+      "id": "node/3324296303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296305",
+        "addr:city": "Abtwil",
+        "addr:housenumber": "7",
+        "addr:postcode": "9030",
+        "addr:street": "Wiesenbachstrasse",
+        "alt_name": "Gidor Abtwil",
+        "branch": "Abtwil Säntispark",
+        "brand": "Gidor",
+        "brand:wikidata": "Q1523182",
+        "name": "Gidor",
+        "opening_hours": "Mo-Fr 08:30-19:00, Sa 07:30-17:00; PH off",
+        "operator": "Gidor",
+        "shop": "hairdresser",
+        "website": "https://www.gidor.ch/filiale/abtwil/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.316273,
+          47.4175657
+        ]
+      },
+      "id": "node/3324296305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296307",
+        "operator": "Sunrise",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3166246,
+          47.4176081
+        ]
+      },
+      "id": "node/3324296307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296308",
+        "name": "k kiosk Säntispark",
+        "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 07:30-17:00",
+        "operator": "K Kiosk",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3160386,
+          47.4176723
+        ]
+      },
+      "id": "node/3324296308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296309",
+        "operator": "Visilab",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3164327,
+          47.4177052
+        ]
+      },
+      "id": "node/3324296309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3324296312",
+        "operator": "myDream",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3163256,
+          47.4178268
+        ]
+      },
+      "id": "node/3324296312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359676433",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "2",
+        "addr:postcode": "9000",
+        "addr:street": "Demutstrasse",
+        "name": "Taufrisch Blueme / Kafi",
+        "phone": "+41712228111",
+        "shop": "florist",
+        "website": "www.taufrisch-bluemekafi.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3811227,
+          47.4180337
+        ]
+      },
+      "id": "node/3359676433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359683166",
+        "name": "Metzgerei Bechinger",
+        "shop": "butcher",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3816236,
+          47.4170246
+        ]
+      },
+      "id": "node/3359683166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3471872598",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "13",
+        "addr:postcode": "9000",
+        "addr:street": "Wassergasse",
+        "name": "VeloFlicki&FeiniVelos",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3741,
+          47.4212956
+        ]
+      },
+      "id": "node/3471872598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3679746825",
+        "name": "Spiess und Kühne",
+        "shop": "medical_supply",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ink. Reha techniker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39648,
+          47.431268
+        ]
+      },
+      "id": "node/3679746825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868790586",
+        "addr:housenumber": "152-154",
+        "addr:street": "Rorschacher Strasse",
+        "name": "Digitec Galaxus AG",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-20:00; Sa 08:30-17:00",
+        "shop": "electronics",
+        "website": "https://digitec.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3962366,
+          47.431375
+        ]
+      },
+      "id": "node/3868790586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3902003957",
+        "addr:housenumber": "48",
+        "addr:postcode": "9000",
+        "addr:street": "Neugasse",
+        "name": "Brillen-Institut",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3742791,
+          47.4241722
+        ]
+      },
+      "id": "node/3902003957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3902003958",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "5",
+        "addr:postcode": "9000",
+        "addr:street": "Webergasse",
+        "name": "Herren Globus",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748236,
+          47.423459
+        ]
+      },
+      "id": "node/3902003958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929132591",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "53",
+        "addr:postcode": "9014",
+        "addr:street": "Stationsstrasse",
+        "operator": "Spezialitäten-Metzgerei Bechinger Jörg",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.33386,
+          47.4080757
+        ]
+      },
+      "id": "node/3929132591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4089685631",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3651698,
+          47.4156329
+        ]
+      },
+      "id": "node/4089685631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092085899",
+        "name": "Nähmaschinen König",
+        "opening_hours": "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:00,13:15-16:00",
+        "shop": "sewing",
+        "website": "http://www.naehmaschinen-koenig.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3722973,
+          47.4251991
+        ]
+      },
+      "id": "node/4092085899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092086200",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "13",
+        "addr:postcode": "9000",
+        "addr:street": "Bahnhofstrasse",
+        "name": "Erotic & Fashion",
+        "shop": "erotic",
+        "website": "http://www.erotic-bahnhofstr13.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3722285,
+          47.4251548
+        ]
+      },
+      "id": "node/4092086200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092107493",
+        "name": "Naccari",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751276,
+          47.425632
+        ]
+      },
+      "id": "node/4092107493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471027",
+        "name": "e noi",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751457,
+          47.4246063
+        ]
+      },
+      "id": "node/4092471027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471028",
+        "name": "finnshop",
+        "shop": "cutlery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750475,
+          47.424804
+        ]
+      },
+      "id": "node/4092471028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471029",
+        "name": "Weingallerie Simone Lanz",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749919,
+          47.4245857
+        ]
+      },
+      "id": "node/4092471029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471030",
+        "addr:housenumber": "34",
+        "addr:street": "Neugasse",
+        "name": "Beldona",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747531,
+          47.4248639
+        ]
+      },
+      "id": "node/4092471030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471031",
+        "name": "Pompidou",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748461,
+          47.4247864
+        ]
+      },
+      "id": "node/4092471031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471033",
+        "name": "Walder",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747823,
+          47.4249973
+        ]
+      },
+      "id": "node/4092471033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471402",
+        "alt_name": "Salt Store St. Gallen",
+        "branch": "St. Gallen Multergasse",
+        "brand": "Salt",
+        "brand:wikidata": "Q17325543",
+        "name": "Salt",
+        "operator": "Salt Mobile",
+        "shop": "mobile_phone",
+        "website": "https://www.salt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375225,
+          47.424039
+        ]
+      },
+      "id": "node/4092471402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471403",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "27",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "alt_name": "Import Parfumerie Multergasse",
+        "branch": "St. Gallen Multergasse",
+        "brand": "Import Parfumerie",
+        "brand:wikidata": "Q1660352",
+        "name": "Import Parfumerie",
+        "operator": "Coop Genossenschaft",
+        "shop": "perfumery",
+        "website": "https://www.impo.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753429,
+          47.4241107
+        ]
+      },
+      "id": "node/4092471403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471404",
+        "name": "Bolli",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753938,
+          47.4243334
+        ]
+      },
+      "id": "node/4092471404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471405",
+        "name": "Jack Jones",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754562,
+          47.4243556
+        ]
+      },
+      "id": "node/4092471405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471743",
+        "name": "Watch me",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749432,
+          47.424932
+        ]
+      },
+      "id": "node/4092471743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471796",
+        "name": "Lush",
+        "shop": "cosmetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375513,
+          47.4243867
+        ]
+      },
+      "id": "node/4092471796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471798",
+        "name": "Bonita",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3760603,
+          47.4247104
+        ]
+      },
+      "id": "node/4092471798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471799",
+        "name": "Baettig",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761142,
+          47.4247553
+        ]
+      },
+      "id": "node/4092471799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471891",
+        "name": "esprit",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3755092,
+          47.4245132
+        ]
+      },
+      "id": "node/4092471891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471895",
+        "name": "Sunrise",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3762334,
+          47.4248195
+        ]
+      },
+      "id": "node/4092471895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092471897",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "5",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "brand": "H&M",
+        "brand:wikidata": "Q188326",
+        "brand:wikipedia": "en:H&M",
+        "name": "H&M",
+        "opening_hours": "Mo-We, Fr 09:00-19:00; Th 09:00-21:00; Sa 08:30-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761042,
+          47.4245524
+        ]
+      },
+      "id": "node/4092471897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472124",
+        "name": "Jeans zone",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761052,
+          47.4249762
+        ]
+      },
+      "id": "node/4092472124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472125",
+        "name": "Visilab",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746555,
+          47.4247684
+        ]
+      },
+      "id": "node/4092472125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472126",
+        "name": "Anouk",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746757,
+          47.4247889
+        ]
+      },
+      "id": "node/4092472126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472127",
+        "name": "Thomas Sabo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747019,
+          47.4248085
+        ]
+      },
+      "id": "node/4092472127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472128",
+        "name": "Swisscom",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748417,
+          47.4250859
+        ]
+      },
+      "id": "node/4092472128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472129",
+        "name": "Depot",
+        "opening_hours": "Mo-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750713,
+          47.4250351
+        ]
+      },
+      "id": "node/4092472129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472208",
+        "name": "Fielmann",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758153,
+          47.4246373
+        ]
+      },
+      "id": "node/4092472208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472209",
+        "name": "Intimissimi",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757077,
+          47.4245868
+        ]
+      },
+      "id": "node/4092472209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472210",
+        "name": "Mani's Guitar Shop",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754637,
+          47.4247834
+        ]
+      },
+      "id": "node/4092472210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472211",
+        "name": "Phase Eight",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746278,
+          47.4247124
+        ]
+      },
+      "id": "node/4092472211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472212",
+        "name": "Tally Weijl",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748217,
+          47.4247393
+        ]
+      },
+      "id": "node/4092472212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472692",
+        "name": "Galerie Lüchinger",
+        "shop": "interior_decoration",
+        "website": "https://www.galerie-luechinger.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754396,
+          47.4225029
+        ]
+      },
+      "id": "node/4092472692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092472790",
+        "name": "Baumgartner",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759571,
+          47.4246508
+        ]
+      },
+      "id": "node/4092472790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092474792",
+        "name": "Haarlokal",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759483,
+          47.4255467
+        ]
+      },
+      "id": "node/4092474792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092474812",
+        "name": "VinCop",
+        "shop": "wine",
+        "website": "https://www.vincop.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3755954,
+          47.4227033
+        ]
+      },
+      "id": "node/4092474812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092499389",
+        "name": "Textilland",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759083,
+          47.4233813
+        ]
+      },
+      "id": "node/4092499389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092499591",
+        "name": "viegener optik",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750283,
+          47.4234927
+        ]
+      },
+      "id": "node/4092499591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518493",
+        "name": "Samen Höhener",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3745688,
+          47.4246011
+        ]
+      },
+      "id": "node/4092518493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518495",
+        "name": "Roma",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744114,
+          47.4243742
+        ]
+      },
+      "id": "node/4092518495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518589",
+        "name": "Hairpoint",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752486,
+          47.4232173
+        ]
+      },
+      "id": "node/4092518589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518591",
+        "name": "kunst stück",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754492,
+          47.4232436
+        ]
+      },
+      "id": "node/4092518591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518595",
+        "name": "Belras",
+        "shop": "knives"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757419,
+          47.4254645
+        ]
+      },
+      "id": "node/4092518595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518596",
+        "brand": "Vero Moda",
+        "brand:wikidata": "Q594721",
+        "brand:wikipedia": "en:Bestseller (company)",
+        "name": "Vero Moda",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765033,
+          47.4253391
+        ]
+      },
+      "id": "node/4092518596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518690",
+        "name": "Bernies",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758527,
+          47.4255128
+        ]
+      },
+      "id": "node/4092518690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092518691",
+        "name": "Kinderboutique zum Karussell",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752944,
+          47.4254974
+        ]
+      },
+      "id": "node/4092518691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092522592",
+        "name": "Ochsner Sport",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750886,
+          47.4241896
+        ]
+      },
+      "id": "node/4092522592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092522593",
+        "brand": "WE",
+        "brand:wikidata": "Q1987861",
+        "brand:wikipedia": "en:WE (clothing)",
+        "name": "WE",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756659,
+          47.4245319
+        ]
+      },
+      "id": "node/4092522593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092522596",
+        "name": "Antik Stübli",
+        "shop": "antiques",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757929,
+          47.422035
+        ]
+      },
+      "id": "node/4092522596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526889",
+        "name": "haircut by krystina",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3743976,
+          47.4246485
+        ]
+      },
+      "id": "node/4092526889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526891",
+        "name": "Alpstein",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753367,
+          47.4255404
+        ]
+      },
+      "id": "node/4092526891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526967",
+        "name": "Gemperli",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748302,
+          47.4235983
+        ]
+      },
+      "id": "node/4092526967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526968",
+        "name": "orsay",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750029,
+          47.4239152
+        ]
+      },
+      "id": "node/4092526968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526969",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "31",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "alt_name": "Mobilezone Multergasse",
+        "branch": "St. Gallen Multergasse",
+        "brand": "Mobilezone",
+        "brand:wikidata": "Q1680518",
+        "name": "Mobilezone",
+        "operator": "mobilezone",
+        "shop": "mobile_phone",
+        "website": "https://www.mobilezone.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751103,
+          47.4239754
+        ]
+      },
+      "id": "node/4092526969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526973",
+        "name": "Klosterdrogerie",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763282,
+          47.4223203
+        ]
+      },
+      "id": "node/4092526973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092526999",
+        "name": "Bucherer",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757236,
+          47.4243312
+        ]
+      },
+      "id": "node/4092526999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527001",
+        "name": "Perosa",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759961,
+          47.4245046
+        ]
+      },
+      "id": "node/4092527001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527002",
+        "name": "Naturland Schlafsysteme",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376497,
+          47.422329
+        ]
+      },
+      "id": "node/4092527002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527003",
+        "name": "La Folie",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763939,
+          47.4242487
+        ]
+      },
+      "id": "node/4092527003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527004",
+        "name": "Graf",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763158,
+          47.4242015
+        ]
+      },
+      "id": "node/4092527004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527006",
+        "name": "Angel Nails & Beauty Spa",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761968,
+          47.4240922
+        ]
+      },
+      "id": "node/4092527006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527007",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "20",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "Sara Iseli",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756995,
+          47.4240319
+        ]
+      },
+      "id": "node/4092527007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527189",
+        "name": "Navyboot",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746084,
+          47.424343
+        ]
+      },
+      "id": "node/4092527189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527190",
+        "name": "Calida",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747067,
+          47.4241201
+        ]
+      },
+      "id": "node/4092527190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527191",
+        "name": "Schwyter",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 06:30-17:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752232,
+          47.425468
+        ]
+      },
+      "id": "node/4092527191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092527197",
+        "name": "Klosterbarbier Damen- und Herrensalon",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757501,
+          47.4229689
+        ]
+      },
+      "id": "node/4092527197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092534089",
+        "name": "Studer&Hänni AG",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3762841,
+          47.4252251
+        ]
+      },
+      "id": "node/4092534089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092537596",
+        "name": "Lisa Dumermuth",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753069,
+          47.4237999
+        ]
+      },
+      "id": "node/4092537596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092538190",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "22",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "Doris Aepli",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756036,
+          47.4239559
+        ]
+      },
+      "id": "node/4092538190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092538191",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "28a",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "Furrer Vorhänge AG",
+        "shop": "curtain",
+        "website": "https://www.furrer-vorhaenge.ch/unternehmen/filiale-stgallen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752448,
+          47.4237582
+        ]
+      },
+      "id": "node/4092538191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092538193",
+        "name": "Gusto",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3784717,
+          47.4251661
+        ]
+      },
+      "id": "node/4092538193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092540450",
+        "name": "Max Shoes",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3745881,
+          47.4238989
+        ]
+      },
+      "id": "node/4092540450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092540451",
+        "name": "Rhomberg",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753872,
+          47.4253283
+        ]
+      },
+      "id": "node/4092540451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092540452",
+        "name": "Tchibo",
+        "shop": "coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750941,
+          47.4253467
+        ]
+      },
+      "id": "node/4092540452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092540453",
+        "name": "Männerwerk",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749886,
+          47.4252346
+        ]
+      },
+      "id": "node/4092540453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092540454",
+        "name": "More",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750317,
+          47.4252862
+        ]
+      },
+      "id": "node/4092540454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092541994",
+        "name": "Weinstein Vinothek",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748399,
+          47.4217579
+        ]
+      },
+      "id": "node/4092541994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092542718",
+        "name": "Elisabeth Berger",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754138,
+          47.4253619
+        ]
+      },
+      "id": "node/4092542718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092571389",
+        "name": "Swarovski",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759367,
+          47.4244687
+        ]
+      },
+      "id": "node/4092571389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092581390",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9001",
+        "addr:street": "Oberer Graben",
+        "alt_name": "TUI ReiseCenter St. Gallen",
+        "branch": "St. Gallen Marktplatz",
+        "brand": "TUI",
+        "brand:wikidata": "Q573103",
+        "name": "TUI ReiseCenter",
+        "operator": "TUI Suisse",
+        "shop": "travel_agency",
+        "website": "http://www.tuistgallenmarktplatz.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746549,
+          47.4255195
+        ]
+      },
+      "id": "node/4092581390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092585789",
+        "name": "Töpferschiibe am Gallusplatz",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758954,
+          47.4221395
+        ]
+      },
+      "id": "node/4092585789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092636995",
+        "name": "Cut Room",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3818621,
+          47.4256066
+        ]
+      },
+      "id": "node/4092636995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637291",
+        "addr:housenumber": "14",
+        "addr:street": "Marktplatz",
+        "name": "Goldhaus",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752779,
+          47.4262614
+        ]
+      },
+      "id": "node/4092637291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637292",
+        "name": "Il Bollero",
+        "shop": "boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753511,
+          47.4263069
+        ]
+      },
+      "id": "node/4092637292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637294",
+        "name": "Frischknecht",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3750615,
+          47.4261599
+        ]
+      },
+      "id": "node/4092637294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637297",
+        "name": "zebra",
+        "opening_hours": "Mo-We,Fr 09:00-19:00; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757168,
+          47.4264696
+        ]
+      },
+      "id": "node/4092637297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637301",
+        "name": "Haarwerk",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3832681,
+          47.4251393
+        ]
+      },
+      "id": "node/4092637301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637312",
+        "name": "Molyta",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3828738,
+          47.4246673
+        ]
+      },
+      "id": "node/4092637312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637313",
+        "name": "Maylano",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.379907,
+          47.4245677
+        ]
+      },
+      "id": "node/4092637313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637398",
+        "name": "Hama",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3818017,
+          47.4244175
+        ]
+      },
+      "id": "node/4092637398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637589",
+        "name": "House of Jeans",
+        "opening_hours": "Mo-We,Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756079,
+          47.4264228
+        ]
+      },
+      "id": "node/4092637589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637590",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.381645,
+          47.4243451
+        ]
+      },
+      "id": "node/4092637590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637597",
+        "name": "miralem",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3825624,
+          47.4246112
+        ]
+      },
+      "id": "node/4092637597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637798",
+        "name": "Hair & Art",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374826,
+          47.4231621
+        ]
+      },
+      "id": "node/4092637798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092637799",
+        "name": "Musik W. & M. Keclik",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752119,
+          47.4229931
+        ]
+      },
+      "id": "node/4092637799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092655390",
+        "name": "Kündig Rorschach",
+        "shop": "deli",
+        "website": "http://www.bonfromage.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375279,
+          47.4229013
+        ]
+      },
+      "id": "node/4092655390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092655391",
+        "name": "Augenoptik Bernd Kalthoff",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375305,
+          47.4228651
+        ]
+      },
+      "id": "node/4092655391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092655392",
+        "name": "raum und leben",
+        "shop": "interior_decoration",
+        "website": "https://www.huesler-nest.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753761,
+          47.4227935
+        ]
+      },
+      "id": "node/4092655392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092655591",
+        "name": "favoritedrinks.ch",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3827135,
+          47.4246421
+        ]
+      },
+      "id": "node/4092655591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092716589",
+        "name": "hifistudio inauen",
+        "shop": "hifi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749159,
+          47.4230779
+        ]
+      },
+      "id": "node/4092716589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092716689",
+        "name": "Heidis Mode",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749647,
+          47.4229865
+        ]
+      },
+      "id": "node/4092716689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092863156",
+        "name": "La Perla",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3755223,
+          47.4268313
+        ]
+      },
+      "id": "node/4092863156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4094002897",
+        "addr:housenumber": "25",
+        "addr:street": "Brühlgasse",
+        "name": "Schneider & Co. AG",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3783078,
+          47.4254891
+        ]
+      },
+      "id": "node/4094002897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096316336",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "42",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Domus Studio",
+        "shop": "furniture",
+        "website": "https://domusag.ch/studio/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3790997,
+          47.4244208
+        ]
+      },
+      "id": "node/4096316336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096346692",
+        "name": "Vögeli",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3782991,
+          47.4247436
+        ]
+      },
+      "id": "node/4096346692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096346693",
+        "amenity": "cafe",
+        "name": "Vögeli Beck",
+        "shop": "bakery",
+        "website": "http://www.voegeli-beck.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3782863,
+          47.4247489
+        ]
+      },
+      "id": "node/4096346693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096349345",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "24",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Chicorée",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "clothes",
+        "website": "https://chicoree.ch/de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3781438,
+          47.4246814
+        ]
+      },
+      "id": "node/4096349345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096357093",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "24",
+        "addr:postcode": "9000",
+        "addr:street": "Burggraben",
+        "name": "Selection Schwander",
+        "operator": "Philipp Schwander AG",
+        "shop": "wine",
+        "website": "https://www.selection-schwander.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3793026,
+          47.4248883
+        ]
+      },
+      "id": "node/4096357093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096365043",
+        "addr:housenumber": "19",
+        "addr:street": "Kugelgasse",
+        "name": "BIMA",
+        "shop": "clothes",
+        "website": "https://www.boutiquebima.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3772111,
+          47.4246454
+        ]
+      },
+      "id": "node/4096365043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096365044",
+        "name": "Turmkaffee",
+        "shop": "coffee",
+        "website": "https://www.turmkaffee.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3777077,
+          47.4246682
+        ]
+      },
+      "id": "node/4096365044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132510399",
+        "name": "Sarah’s Beauty Room",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749402,
+          47.4249227
+        ]
+      },
+      "id": "node/4132510399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4149531640",
+        "addr:housenumber": "27",
+        "addr:street": "Burggraben",
+        "email": "info@nanna.ch",
+        "name": "Nanna Bunte Küche",
+        "opening_hours": "Tu-Fr 09:00-18:30; Sa 10:00-17:00",
+        "phone": "+41 71 220 16 19",
+        "shop": "deli",
+        "website": "http://shop.nanna.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3798345,
+          47.4246244
+        ]
+      },
+      "id": "node/4149531640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163272490",
+        "name": "JYSK",
+        "shop": "bed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3447244,
+          47.4128308
+        ]
+      },
+      "id": "node/4163272490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209061194",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "48",
+        "addr:postcode": "9000",
+        "addr:street": "St. Jakob-Strasse",
+        "name": "Metzgerei Schmid",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3802792,
+          47.4304491
+        ]
+      },
+      "id": "node/4209061194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209061196",
+        "name": "Schwizer BadeWelten",
+        "shop": "bathroom_furnishing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3815452,
+          47.4313037
+        ]
+      },
+      "id": "node/4209061196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209061197",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "63",
+        "addr:postcode": "9000",
+        "addr:street": "St. Jakob-Strasse",
+        "name": "Aumo Garage AG",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3811429,
+          47.4314525
+        ]
+      },
+      "id": "node/4209061197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209061198",
+        "name": "Print & Copyshop",
+        "operator": "Printwerk am Adlerberg",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3812314,
+          47.4310914
+        ]
+      },
+      "id": "node/4209061198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4236879815",
+        "name": "Hützen + Partner",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3349044,
+          47.407507
+        ]
+      },
+      "id": "node/4236879815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4240057434",
+        "name": "Sägässer Honda Center",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3588634,
+          47.4170306
+        ]
+      },
+      "id": "node/4240057434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244909593",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "33",
+        "addr:postcode": "9000",
+        "addr:street": "St. Leonhard-Strasse",
+        "name": "vital.PUNKT",
+        "opening_hours": "closed",
+        "operator": "Müller Reformhaus Vital Shop AG",
+        "phone": "+41 71 508 09 84",
+        "shop": "health_food",
+        "website": "https://www.reformhaus.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3710451,
+          47.4224337
+        ]
+      },
+      "id": "node/4244909593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247087920",
+        "addr:city": "St. Gallen",
+        "addr:postcode": "9000",
+        "addr:street": "Ruhbergstrasse",
+        "operator": "Ruhberg Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3621786,
+          47.4147111
+        ]
+      },
+      "id": "node/4247087920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313969095",
+        "name": "Hirsch AG",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3370011,
+          47.4127844
+        ]
+      },
+      "id": "node/4313969095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313969096",
+        "name": "Möbel Pfister AG",
+        "phone": "+41 71 274 82 82",
+        "shop": "furniture",
+        "website": "https://www.pfister.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3359443,
+          47.412327
+        ]
+      },
+      "id": "node/4313969096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320126361",
+        "description": "gemeinsam gegen foodwaste",
+        "name": "äss bar – Frisch von gestern",
+        "opening_hours": "Mo, Sa 08:00-14:00; Tu-Fr 08:00-18:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3800018,
+          47.4245951
+        ]
+      },
+      "id": "node/4320126361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329285062",
+        "brand": "Mazda",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42753,
+          47.4434169
+        ]
+      },
+      "id": "node/4329285062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329306474",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "32",
+        "addr:postcode": "9000",
+        "addr:street": "St. Leonard-Strasse",
+        "alt_name": "Pierre St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "Pierre",
+        "name": "Hairstylist Pierre",
+        "operator": "Hairstylist Pierre",
+        "shop": "hairdresser",
+        "website": "https://www.hairstylist-pierre.ch/de/coiffeur-stgallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3705793,
+          47.4227588
+        ]
+      },
+      "id": "node/4329306474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4347521821",
+        "addr:housenumber": "221",
+        "addr:street": "Rorschacher Strasse",
+        "name": "Velo Legi",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4025215,
+          47.4353735
+        ]
+      },
+      "id": "node/4347521821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4347521939",
+        "addr:housenumber": "227",
+        "addr:street": "Rorschacher Strasse",
+        "name": "René Fisch AG",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4028962,
+          47.4355704
+        ]
+      },
+      "id": "node/4347521939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4347522751",
+        "name": "XXL Übergrosse Männermode",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.404082,
+          47.4359475
+        ]
+      },
+      "id": "node/4347522751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348319363",
+        "name": "Vögeli Beck",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3919283,
+          47.4304383
+        ]
+      },
+      "id": "node/4348319363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348323626",
+        "name": "zola Interni",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3819889,
+          47.4262132
+        ]
+      },
+      "id": "node/4348323626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348324166",
+        "name": "Tribal Dragon Tattoo",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3820915,
+          47.4264683
+        ]
+      },
+      "id": "node/4348324166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348324889",
+        "name": "Zoller",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3822685,
+          47.4261461
+        ]
+      },
+      "id": "node/4348324889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348335274",
+        "name": "Lucy's Design Shop",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3790241,
+          47.4245176
+        ]
+      },
+      "id": "node/4348335274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348338440",
+        "name": "Jeans Werk",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3785411,
+          47.4244814
+        ]
+      },
+      "id": "node/4348338440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348338565",
+        "addr:housenumber": "26",
+        "addr:street": "Spisergasse",
+        "name": "Teehüsli",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3782688,
+          47.424577
+        ]
+      },
+      "id": "node/4348338565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348343135",
+        "name": "Mewis",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3785261,
+          47.4245903
+        ]
+      },
+      "id": "node/4348343135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348344795",
+        "brand": "Marc O'Polo",
+        "brand:wikidata": "Q1892752",
+        "brand:wikipedia": "en:Marc O'Polo",
+        "name": "Marc O'Polo",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3784051,
+          47.4246587
+        ]
+      },
+      "id": "node/4348344795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348344796",
+        "name": "Leoncini",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3783615,
+          47.4245528
+        ]
+      },
+      "id": "node/4348344796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348347448",
+        "name": "Boutique Späti",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3779756,
+          47.4246903
+        ]
+      },
+      "id": "node/4348347448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348347542",
+        "name": "Viu",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3782589,
+          47.4246363
+        ]
+      },
+      "id": "node/4348347542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348348614",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "18",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Buchhandlung Opal",
+        "shop": "books",
+        "website": "https://www.buchhandlung-opal.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3779031,
+          47.4246855
+        ]
+      },
+      "id": "node/4348348614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348351252",
+        "brand": "Dosenbach",
+        "brand:wikidata": "Q2677329",
+        "brand:wikipedia": "de:Dosenbach-Ochsner",
+        "name": "Dosenbach",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3774265,
+          47.4247403
+        ]
+      },
+      "id": "node/4348351252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348353706",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "2",
+        "addr:postcode": "9000",
+        "addr:street": "Schmiedgasse",
+        "name": "Chronoart",
+        "opening_hours": "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00",
+        "shop": "watches",
+        "website": "https://www.chronoart.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3766394,
+          47.4244811
+        ]
+      },
+      "id": "node/4348353706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348354369",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "10",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "alt_name": "PKZ Men St. Gallen",
+        "branch": "St. Gallen Herrenmode",
+        "brand": "PKZ",
+        "brand:wikidata": "Q1661717",
+        "clothes": "men",
+        "name": "PKZ Men",
+        "operator": "PKZ Burger-Kehl & Co.",
+        "shop": "clothes",
+        "website": "https://www.pkz.ch/de/36-storelocator?sid=8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3772114,
+          47.4248312
+        ]
+      },
+      "id": "node/4348354369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348358600",
+        "name": "Anatol",
+        "shop": "carpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746003,
+          47.421677
+        ]
+      },
+      "id": "node/4348358600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348359174",
+        "name": "Antik Stübli",
+        "shop": "antiques",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3757775,
+          47.4220345
+        ]
+      },
+      "id": "node/4348359174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348360500",
+        "name": "Viva Office",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3731186,
+          47.4213275
+        ]
+      },
+      "id": "node/4348360500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348362382",
+        "name": "m-way Shop",
+        "shop": "bicycle",
+        "website": "https://m-way.ch/m-way-shop-st-gallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3724688,
+          47.4212432
+        ]
+      },
+      "id": "node/4348362382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348362492",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "1",
+        "addr:postcode": "9000",
+        "addr:street": "Bahnhofplatz",
+        "alt_name": "Neuroth St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "Neuroth",
+        "brand:wikidata": "Q15836645",
+        "name": "Neuroth",
+        "operator": "Neuroth Hörcenter",
+        "shop": "hearing_aids",
+        "website": "http://www.neuroth.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3706622,
+          47.42299
+        ]
+      },
+      "id": "node/4348362492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348362706",
+        "name": "Leopola",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37156,
+          47.4222632
+        ]
+      },
+      "id": "node/4348362706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348363996",
+        "name": "Schneider Schuhe",
+        "opening_hours": "Mo-We,Fr 09:00-18:30; Th 09:00-19:30; Sa 09:00-17:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3716828,
+          47.4223281
+        ]
+      },
+      "id": "node/4348363996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348370519",
+        "name": "Confiserie Roggwiller",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 09:00-19:00",
+        "shop": "chocolate",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3705387,
+          47.4237473
+        ]
+      },
+      "id": "node/4348370519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348371780",
+        "name": "Gidor Coffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3707527,
+          47.4239408
+        ]
+      },
+      "id": "node/4348371780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362520356",
+        "name": "Velo Pfiffner AG",
+        "opening_hours": "Tu-Fr 08:00-12:00; Tu-Fr 13:00-18:00; Sa 08:00-16:00",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3834297,
+          47.4250031
+        ]
+      },
+      "id": "node/4362520356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362520358",
+        "name": "Piaggio Center",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3834204,
+          47.4249861
+        ]
+      },
+      "id": "node/4362520358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416074793",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "20",
+        "addr:postcode": "9000",
+        "addr:street": "Brühlgasse",
+        "email": "info@velotob.ch",
+        "name": "Velotob",
+        "name:de": "Velotob",
+        "opening_hours": "Tu-Fr 16:00-19:00; Sa 10:00-12:00",
+        "phone": "+41 76 222 86 86",
+        "shop": "bicycle",
+        "website": "https://www.velotob.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3779847,
+          47.4254693
+        ]
+      },
+      "id": "node/4416074793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588163488",
+        "name": "Blumen vom Lerchenfeld",
+        "phone": "+41 71 277 72 77",
+        "shop": "florist",
+        "website": "http://www.blumenvomlerchenfeld.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3360325,
+          47.4124988
+        ]
+      },
+      "id": "node/4588163488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588163889",
+        "description": "Internetanbieter",
+        "name": "Future Shop",
+        "phone": "+41 71 274 93 93",
+        "shop": "electronics",
+        "website": "http://www.mhs.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3361626,
+          47.4126845
+        ]
+      },
+      "id": "node/4588163889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597680518",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "17",
+        "addr:postcode": "9000",
+        "addr:street": "Auf dem Damm",
+        "name": "Kirchenmusikschule St.Gallen \"centrum dkms\"",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3763213,
+          47.4222377
+        ]
+      },
+      "id": "node/4597680518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607019349",
+        "name": "Lamborghini St. Gallen",
+        "phone": "+41 71 274 22 22",
+        "shop": "car",
+        "website": "http://lamborghini-sg.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3369299,
+          47.412865
+        ]
+      },
+      "id": "node/4607019349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698276299",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9015",
+        "addr:street": "Gaiserwaldstrasse",
+        "alt_name": "Micasa St. Gallen",
+        "branch": "St. Gallen MParc",
+        "brand": "Micasa",
+        "brand:wikidata": "Q1926676",
+        "name": "Micasa",
+        "opening_hours": "Mo-Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "furniture",
+        "website": "https://www.micasa.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3136109,
+          47.4154657
+        ]
+      },
+      "id": "node/4698276299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707792192",
+        "name": "Ganz Baumaterialien",
+        "name:de": "Ganz Baumaterialien",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4166329,
+          47.4389277
+        ]
+      },
+      "id": "node/4707792192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4709013088",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "15",
+        "addr:postcode": "9014",
+        "addr:street": "Rittmeyerstrasse",
+        "name": "Binder & Co. AG St. Gallen",
+        "phone": "+41 71 278 66 66",
+        "shop": "electronics",
+        "website": "https://www.elektrobinder.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3356741,
+          47.4098219
+        ]
+      },
+      "id": "node/4709013088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4709018458",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "15",
+        "addr:postcode": "9000",
+        "addr:street": "Rittmeyerstrasse",
+        "name": "Steiger Textil AG, St. Gallen",
+        "phone": "+41 71 277 70 55",
+        "shop": "fabric",
+        "website": "http://www.steigertextil.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3356888,
+          47.4097353
+        ]
+      },
+      "id": "node/4709018458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711874390",
+        "addr:postcode": "9000",
+        "name": "Auto Meter AG (Autoelektrik)",
+        "name:de": "Auto Meter AG (Autoelektrik)",
+        "opening_hours": "Mo-Th 07:30-12:00, 13:30-17:30; Fr 07:30-12:00, 13:30-17:00",
+        "phone": "+41 71 231 00 00",
+        "shop": "car_parts",
+        "website": "http://www.autometer.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3488611,
+          47.4137308
+        ]
+      },
+      "id": "node/4711874390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753803788",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9014",
+        "addr:street": "Stockbergstrasse",
+        "name": "Al Forno Bäckerei Take Away AG",
+        "opening_hours": "Mo-Fr 06:00-13:00; Sa 06:00-11:00; Su 08:00-11:00",
+        "phone": "+41 71 245 45 15",
+        "shop": "bakery",
+        "website": "http://www.alforno.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3336498,
+          47.4071934
+        ]
+      },
+      "id": "node/4753803788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903597121",
+        "addr:postcode": "9000",
+        "name": "Alpiq InTec Schweiz",
+        "name:de": "Alpiq InTec Schweiz",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3949634,
+          47.4344985
+        ]
+      },
+      "id": "node/4903597121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932266621",
+        "name": "Letec",
+        "name:de": "Letec",
+        "shop": "computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746132,
+          47.4249051
+        ]
+      },
+      "id": "node/4932266621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935691074",
+        "name": "k Kiosk",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3689477,
+          47.4226512
+        ]
+      },
+      "id": "node/4935691074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5139498719",
+        "addr:housenumber": "18",
+        "addr:street": "Krontalstrasse",
+        "name": "Bäckerei Dörig",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4007216,
+          47.4330176
+        ]
+      },
+      "id": "node/5139498719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5153006529",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "143",
+        "addr:postcode": "9012",
+        "addr:street": "Teufener Strasse",
+        "description": "Its also the local Post agency",
+        "name": "Bäckerei Schwyter",
+        "opening_hours": "Mo-Fr 06:30-18:30;Sa 06:30-13:30;Su 07:30-12:30",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3666906,
+          47.4115653
+        ]
+      },
+      "id": "node/5153006529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305284127",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3770356,
+          47.4218917
+        ]
+      },
+      "id": "node/5305284127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315170584",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "12",
+        "addr:postcode": "9000",
+        "addr:street": "Hinterlauben",
+        "clothes": "underwear",
+        "name": "Männerwelt GmbH",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753152,
+          47.4247368
+        ]
+      },
+      "id": "node/5315170584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334681841",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "150",
+        "addr:postcode": "9012",
+        "addr:street": "Teufenerstrasse",
+        "name": "Fris-Ör",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3666141,
+          47.4107629
+        ]
+      },
+      "id": "node/5334681841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334681842",
+        "name": "Friseur Gianna",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3667477,
+          47.4103624
+        ]
+      },
+      "id": "node/5334681842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5343706045",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "68",
+        "addr:postcode": "9000",
+        "addr:street": "Flurhofstrasse",
+        "name": "Atelier streifengitter",
+        "opening_hours": "\"on appointment\"",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3956811,
+          47.4287186
+        ]
+      },
+      "id": "node/5343706045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5680159573",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "41",
+        "addr:postcode": "9008",
+        "addr:street": "Heiligkreuzstrasse",
+        "name": "haARCHITEKTin",
+        "operator": "Jenny Zweifel",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3945294,
+          47.4393859
+        ]
+      },
+      "id": "node/5680159573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5829906522",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "24",
+        "addr:postcode": "9000",
+        "addr:street": "Neugasse",
+        "email": "leonard@gentlemanclub.ch",
+        "name": "Gentlemen's Club",
+        "opening_hours": "Mo 12:00-18:30; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 09:00-17:00",
+        "operator": "Leonard Cakolli",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+41 71 222 96 96",
+        "shop": "hairdresser",
+        "website": "http://www.gentlemenclub.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748551,
+          47.4252839
+        ]
+      },
+      "id": "node/5829906522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5829906523",
+        "name": "Eterna Hemden",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3743905,
+          47.4242936
+        ]
+      },
+      "id": "node/5829906523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5829906524",
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "22",
+        "addr:postcode": "9000",
+        "addr:street": "Gallusstrasse",
+        "name": "Briefmarken und Münzen",
+        "opening_hours": "Mo 13:30-18:00; Tu-Fr 09:00-12:00,13:30-18:00; Sa 09:00-15:00",
+        "operator": "Thomas Hediger",
+        "shop": "collector",
+        "website": "https://sammlerladen.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756833,
+          47.4230589
+        ]
+      },
+      "id": "node/5829906524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5833859060",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "11",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "name": "Metro Boutique",
+        "opening_hours": "Mo 10:00-19:00; Tu,We,Fr 09:00-19:00; Th 10:00-21:00; Sa 10:00-17:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+41 71 222 25 36",
+        "shop": "clothes",
+        "website": "https://www.metroboutique.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3759912,
+          47.4243274
+        ]
+      },
+      "id": "node/5833859060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5833859061",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9000",
+        "addr:street": "Gartenstrasse",
+        "email": "info@ochsnercopy.ch",
+        "fax": "+41 71 230 17 85",
+        "name": "Ochsner Löhrer",
+        "opening_hours": "Mo-Fr 07:30-17:30",
+        "phone": "+41 71 230 17 80",
+        "shop": "copyshop",
+        "website": "http://www.ochsnercopy.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3735016,
+          47.4224282
+        ]
+      },
+      "id": "node/5833859061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839461725",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "40",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "tarzan",
+        "shop": "clothes",
+        "website": "https://www.tarzan.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3788836,
+          47.4243984
+        ]
+      },
+      "id": "node/5839461725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480819",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "36",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Artos Hairdesign for Men",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3787612,
+          47.4244541
+        ]
+      },
+      "id": "node/5839480819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480821",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "28",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "l'tur",
+        "phone": "+41 71 223 77 70",
+        "shop": "travel_agency",
+        "website": "https://www.ltur.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3784571,
+          47.4244689
+        ]
+      },
+      "id": "node/5839480821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480822",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "11",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "email": "info@sutter-michel.ch",
+        "name": "Sutter-Michel Fashion for Women",
+        "opening_hours": "Tu-Fr 10:00-18:30; Sa 10:00-17:00",
+        "phone": "+41 71 222 20 16",
+        "shop": "clothes",
+        "website": "https://www.sutter-michel.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3774671,
+          47.4249409
+        ]
+      },
+      "id": "node/5839480822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480823",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Spisergasse",
+        "name": "Tiefenbacher Schuhe",
+        "shop": "shoes",
+        "website": "https://www.tiefenbacher.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376848,
+          47.4249409
+        ]
+      },
+      "id": "node/5839480823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480824",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "21",
+        "addr:postcode": "9000",
+        "addr:street": "Marktgasse",
+        "brand": "Only",
+        "brand:wikidata": "Q61799370",
+        "name": "Only",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3766784,
+          47.4247935
+        ]
+      },
+      "id": "node/5839480824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480825",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "48",
+        "addr:postcode": "9000",
+        "addr:street": "Neugasse",
+        "disused:shop": "jewellery",
+        "name": "LABHART Chronometrie & Goldschmiede",
+        "opening_hours:covid19": "open",
+        "operator": "Romano Prader",
+        "shop": "watches",
+        "website": "https://www.chronometrie.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744162,
+          47.4242103
+        ]
+      },
+      "id": "node/5839480825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839480827",
+        "addr:city": "St.Gallen",
+        "addr:housenumber": "18",
+        "addr:postcode": "9000",
+        "addr:street": "Gallusstrasse",
+        "name": "Buchhandlung zur Rose",
+        "shop": "books",
+        "website": "https://www.buchhandlungzurrose.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758415,
+          47.4234852
+        ]
+      },
+      "id": "node/5839480827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840908086",
+        "name": "C&A",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3736834,
+          47.4231545
+        ]
+      },
+      "id": "node/5840908086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840908186",
+        "name": "Globus",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3730242,
+          47.4228262
+        ]
+      },
+      "id": "node/5840908186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936807200",
+        "addr:housenumber": "30",
+        "addr:street": "Paradiesstrasse",
+        "name": "Couture Matuh",
+        "opening_hours": "off \"Termine nach Vereinbarung\"; Mo 10:00-15:00 \"Nähcafé\"; SH,PH off",
+        "payment:cash": "yes",
+        "phone": "+41 76 3443661",
+        "shop": "tailor",
+        "start_date": "2012",
+        "website": "https://www.couturematuh.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3615384,
+          47.4176979
+        ]
+      },
+      "id": "node/5936807200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939128726",
+        "addr:city": "St. Gallen",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Landhausstrasse",
+        "amenity": "car_rental",
+        "email": "info@piccolotto.ch",
+        "image": "http://www.piccolotto.ch/Docs%20Foto%202/Panorama%201.jpg",
+        "name": "piccolotto & autos",
+        "opening_hours": "Mo-Fr 7:30 - 12:00, 13:30 - 18:00",
+        "operator": "Quintino Piccolotto + Harry Heusser",
+        "payment:cash": "yes",
+        "phone": "+41 71 277 00 70",
+        "service": "repair;tyres",
+        "shop": "car_repair",
+        "website": "http://www.piccolotto.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3527978,
+          47.4130933
+        ]
+      },
+      "id": "node/5939128726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964551159",
+        "description": "Also Frozen Yogurt",
+        "name": "Lolipop",
+        "opening_hours": "Mo-We 10:00-18:30; Th 10:00-21:00; Fr 10:00-18:30; Sa 09:00-17:00",
+        "shop": "confectionery",
+        "website": "https://www.lolipop.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3771148,
+          47.4249243
+        ]
+      },
+      "id": "node/5964551159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993912918",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375506,
+          47.4224467
+        ]
+      },
+      "id": "node/5993912918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993912919",
+        "name": "Glenfahrn",
+        "shop": "alcohol",
+        "website": "www.glenfahrn.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749347,
+          47.4232959
+        ]
+      },
+      "id": "node/5993912919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993912920",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "21",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "alt_name": "Sprüngli St. Gallen",
+        "branch": "St. Gallen",
+        "brand": "Sprüngli",
+        "brand:wikidata": "Q692605",
+        "name": "Sprüngli",
+        "operator": "Confiserie Sprüngli",
+        "shop": "pastry",
+        "website": "https://www.spruengli.ch/de/standorte/multergasse.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754417,
+          47.4241852
+        ]
+      },
+      "id": "node/5993912920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993912922",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "19",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "alt_name": "Calzedonia Multergasse",
+        "branch": "St. Gallen Multergasse",
+        "name": "Calzedonia",
+        "opening_hours": "Mo-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-17:00; PH off",
+        "operator": "Calzedonia Switzerland",
+        "shop": "clothes",
+        "website": "https://www.calzedonia.com/ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3755382,
+          47.4242341
+        ]
+      },
+      "id": "node/5993912922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993919125",
+        "name": "Coiffure X",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3726605,
+          47.4244519
+        ]
+      },
+      "id": "node/5993919125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993919128",
+        "name": "Hotelplan",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3728295,
+          47.4247677
+        ]
+      },
+      "id": "node/5993919128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004980885",
+        "addr:postcode": "9001",
+        "name": "Parfum Christian Dior",
+        "phone": "+41 58 578 17 16",
+        "shop": "cosmetics",
+        "website": "https://www.dior.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3743602,
+          47.4235933
+        ]
+      },
+      "id": "node/6004980885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283275148",
+        "name": "Wegmann",
+        "shop": "butcher",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3983218,
+          47.4311859
+        ]
+      },
+      "id": "node/6283275148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284246081",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "2",
+        "addr:postcode": "9001",
+        "addr:street": "Bahnhofplatz",
+        "alt_name": "Reformhaus St. Gallen",
+        "branch": "St. Gallen Bahnhof",
+        "name": "Reformhaus",
+        "old_name": "vital.PUNKT",
+        "operator": "Müller Reformhaus Vital Shop",
+        "organic": "yes",
+        "shop": "chemist",
+        "website": "https://reformhaus.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3693498,
+          47.4229889
+        ]
+      },
+      "id": "node/6284246081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6429016562",
+        "name": "Martell",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4165016,
+          47.4436933
+        ]
+      },
+      "id": "node/6429016562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506261785",
+        "brand": "Nespresso",
+        "brand:wikidata": "Q301301",
+        "brand:wikipedia": "en:Nespresso",
+        "name": "Nespresso",
+        "shop": "coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.373636,
+          47.4237302
+        ]
+      },
+      "id": "node/6506261785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6534943312",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "42",
+        "addr:postcode": "9000",
+        "addr:street": "Schorenstrasse",
+        "name": "Schwyter Schoren",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.360906,
+          47.4258315
+        ]
+      },
+      "id": "node/6534943312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6681621185",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Bogenstrasse",
+        "name": "Fabrikladen Bischoff Textil AG",
+        "opening_hours": "Mo-Fr 13:30-17:30; Sa 09:00-12:30",
+        "shop": "clothes",
+        "website": "http://www.bischoff-textil.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3630028,
+          47.4204652
+        ]
+      },
+      "id": "node/6681621185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6856735271",
+        "addr:housenumber": "160",
+        "addr:street": "Zürcher Strasse",
+        "brand": "Tesla",
+        "name": "Tesla St. Gallen",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3405068,
+          47.4148643
+        ]
+      },
+      "id": "node/6856735271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898614569",
+        "name": "Boutique Tonja",
+        "opening_hours": "Tu-Fr 10:00-18:30; Sa 10:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3713429,
+          47.4221979
+        ]
+      },
+      "id": "node/6898614569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898626567",
+        "name": "Fizzen",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758651,
+          47.424136
+        ]
+      },
+      "id": "node/6898626567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898633651",
+        "name": "Riverside ink",
+        "shop": "tattoo",
+        "website": "https://www.riverside-ink.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776217,
+          47.4247821
+        ]
+      },
+      "id": "node/6898633651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898633652",
+        "name": "Jolie",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377686,
+          47.425283
+        ]
+      },
+      "id": "node/6898633652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898633653",
+        "name": "Kinderbuchladen",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3773266,
+          47.4251559
+        ]
+      },
+      "id": "node/6898633653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898642405",
+        "name": "Gloria Star",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3758382,
+          47.4227278
+        ]
+      },
+      "id": "node/6898642405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898642406",
+        "name": "Wäscherei am Dom",
+        "shop": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3753138,
+          47.4226462
+        ]
+      },
+      "id": "node/6898642406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898648387",
+        "name": "eveline frischknecht fine jewellery",
+        "phone": "+41 71 220 83 00",
+        "shop": "jewelry",
+        "website": "https://www.evelinefrischknecht.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3773293,
+          47.4257057
+        ]
+      },
+      "id": "node/6898648387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098804908",
+        "addr:housenumber": "31",
+        "addr:street": "Zürcherstrasse",
+        "name": "k kiosk",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 08:30-11:00",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3545373,
+          47.4193473
+        ]
+      },
+      "id": "node/7098804908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098812446",
+        "name": "k kiosk Bhf. St. Gallen Haggen",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 08:00-17:00",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3377219,
+          47.4074384
+        ]
+      },
+      "id": "node/7098812446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098817902",
+        "addr:housenumber": "26",
+        "addr:street": "Kornhausstrasse",
+        "name": "k kiosk",
+        "opening_hours": "Mo-We, Fr 07:00-19:00; Th 07:00-21:00; Sa 07:30-18:00",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3717114,
+          47.4219481
+        ]
+      },
+      "id": "node/7098817902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7176951528",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "3",
+        "addr:postcode": "9000",
+        "addr:street": "Magnihalden",
+        "name": "Antiquariat Lüchinger",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376146,
+          47.4269432
+        ]
+      },
+      "id": "node/7176951528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7193108030",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "31",
+        "addr:postcode": "9000",
+        "addr:street": "St.Leonhard-Strasse",
+        "contact:website": "https://www.welltabac.ch",
+        "name": "Wellauer",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37142,
+          47.4225816
+        ]
+      },
+      "id": "node/7193108030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7238887610",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "1",
+        "addr:postcode": "9015",
+        "addr:street": "Bionstrasse",
+        "branch": "St. Gallen",
+        "brand": "STEG",
+        "brand:wikidata": "Q783607",
+        "name": "STEG Electronics",
+        "opening_hours": "Mo-Fr 09:00-12:30, 13:30-18:30; Sa 09:00-16:00",
+        "operator": "STEG Electronics",
+        "shop": "electronics",
+        "website": "https://steg.services/standorte/st-gallen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3145895,
+          47.4094859
+        ]
+      },
+      "id": "node/7238887610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7355028383",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4181986,
+          47.4268805
+        ]
+      },
+      "id": "node/7355028383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385431691",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "in style Damen und Herren",
+        "shop": "hairdresser",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3792316,
+          47.4387253
+        ]
+      },
+      "id": "node/7385431691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385474130",
+        "name": "Elke Baettig Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776492,
+          47.4374497
+        ]
+      },
+      "id": "node/7385474130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385474131",
+        "name": "Elektro Herzig",
+        "shop": "appliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3778829,
+          47.4374193
+        ]
+      },
+      "id": "node/7385474131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385474132",
+        "massage": "therapeutic",
+        "name": "medizinische Massage Maja Beurer",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3775794,
+          47.4373841
+        ]
+      },
+      "id": "node/7385474132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385474133",
+        "name": "elleest Modeatelier Gabriela Fässler",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377738,
+          47.4372805
+        ]
+      },
+      "id": "node/7385474133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385680790",
+        "female": "yes",
+        "male": "yes",
+        "name": "Colysse",
+        "opening_hours": "Tu-Fr 08:00-18:30; Sa 08:00-16:00",
+        "shop": "hairdresser",
+        "unisex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3783765,
+          47.432944
+        ]
+      },
+      "id": "node/7385680790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385946127",
+        "brand": "Yamaha",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3570776,
+          47.4209262
+        ]
+      },
+      "id": "node/7385946127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386304402",
+        "name": "Coiffeur Divertimento",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3547717,
+          47.4196797
+        ]
+      },
+      "id": "node/7386304402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386304404",
+        "name": "Studio Red Moon",
+        "shop": "erotic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3549791,
+          47.4198297
+        ]
+      },
+      "id": "node/7386304404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386304405",
+        "beauty": "cosmetics",
+        "name": "Cosmetic & Nail Care",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3552345,
+          47.4199048
+        ]
+      },
+      "id": "node/7386304405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475140",
+        "male": "yes",
+        "name": "chez mario",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3769949,
+          47.4277478
+        ]
+      },
+      "id": "node/7503475140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475143",
+        "name": "Doma Artgalerie & Einrahmungen",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3775273,
+          47.4273669
+        ]
+      },
+      "id": "node/7503475143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475145",
+        "name": "Outlaw-Store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3776604,
+          47.4272317
+        ]
+      },
+      "id": "node/7503475145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475147",
+        "name": "Albers Hörinstitut",
+        "shop": "hearing_aids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3756525,
+          47.4267135
+        ]
+      },
+      "id": "node/7503475147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475155",
+        "name": "capelli",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3770824,
+          47.4278954
+        ]
+      },
+      "id": "node/7503475155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475158",
+        "name": "Skin Deep Art",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765395,
+          47.4273583
+        ]
+      },
+      "id": "node/7503475158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475167",
+        "name": "OPUS zwei",
+        "shop": "antiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37518,
+          47.4273037
+        ]
+      },
+      "id": "node/7503475167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475170",
+        "name": "Dorn Massage",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3747018,
+          47.4267251
+        ]
+      },
+      "id": "node/7503475170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475171",
+        "name": "Comedia",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3772373,
+          47.4273325
+        ]
+      },
+      "id": "node/7503475171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475181",
+        "name": "kleika",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3754477,
+          47.4274131
+        ]
+      },
+      "id": "node/7503475181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503475184",
+        "name": "Atelier Stella",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3774905,
+          47.4270886
+        ]
+      },
+      "id": "node/7503475184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482891",
+        "name": "Jean-Marie Cannazza",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3772821,
+          47.4268069
+        ]
+      },
+      "id": "node/7503482891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482897",
+        "massage": "thai",
+        "name": "Ban Thai",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748562,
+          47.4263055
+        ]
+      },
+      "id": "node/7503482897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482899",
+        "name": "St.Galler Brockenhaus",
+        "shop": "second_hand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765825,
+          47.4272212
+        ]
+      },
+      "id": "node/7503482899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482900",
+        "massage": "therapeutic",
+        "name": "Massagepraxis Yassmin Durtschi",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746288,
+          47.426811
+        ]
+      },
+      "id": "node/7503482900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482902",
+        "name": "Z Records",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3771583,
+          47.4276497
+        ]
+      },
+      "id": "node/7503482902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482903",
+        "name": "La Biosthetique Marcel Contier",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3762195,
+          47.4273027
+        ]
+      },
+      "id": "node/7503482903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482905",
+        "name": "flessati",
+        "shop": "antiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3761292,
+          47.4270045
+        ]
+      },
+      "id": "node/7503482905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482910",
+        "name": "La Théière",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3752267,
+          47.4268844
+        ]
+      },
+      "id": "node/7503482910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482911",
+        "name": "Cirsten Krois",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3746457,
+          47.4267869
+        ]
+      },
+      "id": "node/7503482911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482915",
+        "name": "Tiara's Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3769747,
+          47.4277093
+        ]
+      },
+      "id": "node/7503482915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482917",
+        "male": "yes",
+        "name": "Piazza del Uomo",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.375343,
+          47.4267848
+        ]
+      },
+      "id": "node/7503482917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482919",
+        "name": "haute coiffure Ann",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377102,
+          47.4279604
+        ]
+      },
+      "id": "node/7503482919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482922",
+        "name": "nisago",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749921,
+          47.4270669
+        ]
+      },
+      "id": "node/7503482922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482933",
+        "name": "Coiffure des Arts",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3775142,
+          47.4273023
+        ]
+      },
+      "id": "node/7503482933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482934",
+        "beauty": "nails",
+        "name": "King Nails",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3770593,
+          47.4275808
+        ]
+      },
+      "id": "node/7503482934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482938",
+        "name": "René's",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3760517,
+          47.4266603
+        ]
+      },
+      "id": "node/7503482938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482943",
+        "name": "Z&H Harstyling",
+        "shop": "hairdresser",
+        "unisex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3751584,
+          47.4269283
+        ]
+      },
+      "id": "node/7503482943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482945",
+        "name": "Galerie an der Goliathgasse",
+        "shop": "antiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376692,
+          47.4274564
+        ]
+      },
+      "id": "node/7503482945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503482947",
+        "male": "yes",
+        "name": "BS Barber Swiss",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748243,
+          47.4263392
+        ]
+      },
+      "id": "node/7503482947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503565610",
+        "name": "New Generation",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3739813,
+          47.4266162
+        ]
+      },
+      "id": "node/7503565610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503565611",
+        "name": "Schneidwerk St.Gallen",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3743439,
+          47.4263743
+        ]
+      },
+      "id": "node/7503565611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503565615",
+        "name": "Hairstyle Schena",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3743305,
+          47.4264396
+        ]
+      },
+      "id": "node/7503565615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503565620",
+        "name": "red frost tattoo",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374259,
+          47.4267475
+        ]
+      },
+      "id": "node/7503565620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503578969",
+        "name": "Antiquitäten Im Obersteg-Bucher",
+        "shop": "antiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3742706,
+          47.4278198
+        ]
+      },
+      "id": "node/7503578969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7707150929",
+        "alt_name": "Migrol Auto Service Neudorf",
+        "branch": "St. Gallen Neudorf",
+        "name": "Migrol Auto Service",
+        "opening_hours": "Mo-Fr 07:30-12:00, Mo-Th 13:00-18:00, Fr 13:00-17:00, Sa 08:00-12:00",
+        "operator": "Migrol",
+        "service": "repair;tyres",
+        "shop": "car_repair",
+        "website": "https://www.migrol.ch/de/mobilität/auto-service/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4021551,
+          47.4352047
+        ]
+      },
+      "id": "node/7707150929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7743760653",
+        "addr:housenumber": "28",
+        "addr:street": "Brühlgasse",
+        "craft": "electronics_repair",
+        "electronics_repair": "computer;phone",
+        "name": "revendo",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
+        "second_hand": "only",
+        "shop": "electronics",
+        "website": "https://revendo.ch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3781924,
+          47.4252299
+        ]
+      },
+      "id": "node/7743760653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7807334485",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "47",
+        "addr:postcode": "9000",
+        "addr:street": "Multergasse",
+        "branch": "St. Gallen Globus",
+        "brand": "Brezelkönig",
+        "name": "Brezelkönig",
+        "opening_hours": "Mo-Fr 10:00-19:00; Th 10:00-20:00; Sa 10:00-18:00; PH off",
+        "operator": "Valora",
+        "shop": "bakery",
+        "website": "https://brezelkoenig.ch/de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3742336,
+          47.423444
+        ]
+      },
+      "id": "node/7807334485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7840638540",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "29",
+        "addr:postcode": "9008",
+        "addr:street": "Bachstrasse",
+        "alt_name": "melectronics St. Fiden",
+        "branch": "St. Gallen St. Fiden",
+        "name": "melectronics",
+        "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "electronics",
+        "website": "https://www.melectronics.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3917441,
+          47.4355935
+        ]
+      },
+      "id": "node/7840638540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7840638543",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "29",
+        "addr:postcode": "9008",
+        "addr:street": "Bachstrasse",
+        "alt_name": "Do it + Garden St. Fiden",
+        "branch": "St. Gallen St. Fiden",
+        "name": "Do it + Garden Migros",
+        "opening_hours": "Mo-Fr 08:00-19:00; Th 08:00-21:00; Sa 07:30-17:00; PH off",
+        "operator": "Genossenschaft Migros Ostschweiz",
+        "shop": "doityourself",
+        "website": "https://www.doitgarden.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3918112,
+          47.435911
+        ]
+      },
+      "id": "node/7840638543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7950219607",
+        "name": "Regioherz",
+        "opening_hours": "Mo-Fr 07:00-18:30; Th 07:00-20:00; Sa 09:00-16:00",
+        "shop": "farm",
+        "website": "https://regioherz.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3735987,
+          47.4260421
+        ]
+      },
+      "id": "node/7950219607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995713585",
+        "addr:housenumber": "42",
+        "addr:street": "Teufener Strasse",
+        "name": "stoffwechsel",
+        "opening_hours": "Th,Fr 09:00-12:00,13:00-18:00; Sa 10:00-16:00",
+        "second_hand": "yes",
+        "shop": "clothes",
+        "website": "http://www.stoffwechsel-laden.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.368315,
+          47.4184596
+        ]
+      },
+      "id": "node/7995713585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8302790246",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "17",
+        "addr:postcode": "9000",
+        "addr:street": "Auf dem Damm",
+        "name": "Dunja Kosmetik",
+        "operator": "Dunja Dalsasso",
+        "phone": "+41 79 445 10 66",
+        "shop": "beauty",
+        "website": "www.dunjakosmetik.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3762785,
+          47.422316
+        ]
+      },
+      "id": "node/8302790246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8344692133",
+        "motorcycle:repair": "yes",
+        "motorcycle:sales": "yes;used",
+        "name": "schäpper motos",
+        "opening_hours": "Tu-Fr 08:00-12:00,13:15-18:00; Sa 08:00-12:00",
+        "shop": "motorcycle",
+        "website": "https://www.schaepper-motos.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3814211,
+          47.4316511
+        ]
+      },
+      "id": "node/8344692133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354869327",
+        "beauty": "cosmetics;hair_removal",
+        "name": "Frauenzimmer",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3818112,
+          47.4167159
+        ]
+      },
+      "id": "node/8354869327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354869328",
+        "beauty": "cosmetics;hair_removal;hair",
+        "name": "Coiffeur Marga",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3820397,
+          47.4158946
+        ]
+      },
+      "id": "node/8354869328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355341897",
+        "addr:housenumber": "26",
+        "addr:street": "Kornhausstrasse",
+        "name": "Neumarkt 4",
+        "opening_hours:signed": "no",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3715989,
+          47.4218936
+        ]
+      },
+      "id": "node/8355341897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8383785717",
+        "name": "Klang und Kleid",
+        "opening_hours": "Mo-We 11:00-18:30; Th, Fr 11:00-20:00; Sa 10:00-18:00",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377809,
+          47.4255769
+        ]
+      },
+      "id": "node/8383785717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8513110590",
+        "name": "Cube",
+        "payment:coins": "no",
+        "payment:contactless": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "no",
+        "payment:postfinance_card": "yes",
+        "payment:visa": "yes",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3744278,
+          47.431675
+        ]
+      },
+      "id": "node/8513110590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8860081179",
+        "name": "Markwalder",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3712855,
+          47.4235393
+        ]
+      },
+      "id": "node/8860081179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8886900109",
+        "name": "Papeterie zum Schiff",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3764393,
+          47.4258952
+        ]
+      },
+      "id": "node/8886900109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9173192377",
+        "addr:city": "St. Gallen",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Ulmenstrasse",
+        "name": "Lachen Drogerie",
+        "opening_hours": "Mo-Fr 08:00-12:30,13:00-19:00;Sa 09:00-17:00",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.353587,
+          47.4202052
+        ]
+      },
+      "id": "node/9173192377"
+    }
+  ]
+}
