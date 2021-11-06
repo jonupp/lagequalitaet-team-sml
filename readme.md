@@ -7,5 +7,3 @@
 - lebensmittelläden
 - andere läden
 - 
-
-test
